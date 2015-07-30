@@ -1,26 +1,11 @@
-fc3e:60ec:c015:90f3:3915:e3d0:570f:1347 cSmith/Kharkov || cSmith/Portanode	
-fc94:1e9a:edeb:3026:eb7d:1667:cba6:a500 kpcyrd	
-fc4e:fd99:30ca:8f94:3d2f:2d52:f687:b201 Igel
-fc67:9816:2ccc:c4c2:f76c:1d09:a7a5:044e larsg/amsterdam Welcome to nginx!
-fc56:8313:1e14:1a50:0c01:0850:a53e:7127 cel	cel's hyperboria site
-fc35:e348:2293:ca87:156a:6cf3:0b40:1c1f cehck01
-fc8d:c1aa:ce98:c6a4:fadc:85ba:569a:4e1d cechk01/vps
-fc00:9310:4977:5777:c622:8098:9e63:2dc3 cechk01/	Cryptoguard RCM
-fc89:0045:8bf0:d611:b894:bc99:c072:7a81 cSmith/rectangle	
-fc42:52b2:fe63:a211:236a:305:6f4:a1be   cSmith/cube	
-fcbd:4817:b415:8f2c:ba1f:3d5e:95bf:a796 proft/proft@vx.si
-fcbc:4102:5ade:999d:6910:f00b:d002:5371 pa1ncak3/home
-fc4f:1572:514e:14b3:f971:bcf9:4698:b7db dicarlo
-fc44:f497:93b7:810e:38f:6ad9:a957:8b09  cSmith/rhombus
-fc82:7102:29ed:beb1:4bf9:6e67:450d:577a veleiro/upstream
-fc84:9190:9b2:59c2:7266:b4bf:7ed4:c4e0  veleiro/local
-fcba:a94e:6ed0:1c2e:c9ca:8323:c13c:0f28 veleiro/local
-fced:be:335d:a24:fa94:914d:1fed:fd09    zielmicha/mapper
-fc53:dcc5:e89d:9082:4097:6622:5e82:c654 zielmicha/ovh
+fc67:9816:2ccc:c4c2:f76c:1d09:a7a5:044e amsterdam.larsg.hype
+fc56:8313:1e14:1a50:0c01:0850:a53e:7127 cel.hype
+fced:be:335d:a24:fa94:914d:1fed:fd09    mapper.zielmicha.com
+fc53:dcc5:e89d:9082:4097:6622:5e82:c654 ovh.zielmicha
 fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd meshnet.pl/ovh
-fc5f:c567:102:c14e:326e:5035:d7e5:9f78  meshnet.pl/h
-fc99:2f4:7795:c86c:36bd:63ae:cf49:d459  meshwith.me/seanode
-fcbb:98bd:d44f:40dc:426c:4971:b6b1:7bd6 smash-net.org/hype
+fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
+fc99:2f4:7795:c86c:36bd:63ae:cf49:d459  seanode.meshwith.me
+fcbb:98bd:d44f:40dc:426c:4971:b6b1:7bd6 hype.smash-net.org
 fc49:8be3:42b7:4f0c:4e68:563f:dac6:e259 lukevers.com
 fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype 
 fc3b:f894:81ab:a060:149c:7d61:87b7:2ef9 cjdns.ve7alb.ca
@@ -34,7 +19,7 @@ fc13:86d1:c2e3:994b:8dad:4537:b0b5:a025 poolno.de
 fc07:fa2:b40f:cc95:a28b:5224:2e56:8ca8  h.tor.ventricle.us
 fc49:4bb0:30f4:5ea5:eaa:1484:7d37:68ef  h.xmpp.rows.io
 fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hypecloud.smash-net.org
-fc8f:2d5e:41f8:83e:c45f:735:bda:1984	  hypegw
+fc8f:2d5e:41f8:83e:c45f:735:bda:1984	  hypegw.hype
 fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7 mesh.roaming-initiative.com
 fc1e:af9f:b436:7aa0:5bce:dfc:cba:c713   thefinn93.hype
 fca3:1fcc:decf:d738:85a8:99c8:a4f2:4a6f dwinn.hype
