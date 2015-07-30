@@ -1,4 +1,5 @@
 nodedb
 ======
 
-text listing of all known (to me) cjdns nodes. feel free to add yourself via a PR, however having proof of you being your fcip would be nice.
+This is Hyperboaria node list. Orginally based on [cschmittiey/nodedb](https://github.com/cschmittiey/nodedb).
+Submit PR if you want to have your node added. I prefer DNS format eg. foonode.example.com.
