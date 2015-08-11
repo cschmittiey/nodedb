@@ -24,11 +24,12 @@ fc4b:2571:aa1a:d4d1:67d6:2d57:c2d2:a329 kpcyrd.hype
 fc4b:618c:f4f6:18da:2550:5bc6:d889:2810 fvz-rec-fr-rbx-01 fvz-rec-fr-rbx-01.h.dnsrec.meo.ws
 fc4b:cb57:2405:5e2e:e740:bf5:6fe9:10bc fvz-rec-ie-du-01 fvz-rec-ie-du-01.h.dnsrec.meo.ws
 fc4f:fb95:b233:cf7d:1d8e:899a:158c:839a fvz-rec-au-sa-01 fvz-rec-au-sa-01.h.dnsrec.meo.ws
-fc51:57de:bdef:e439:ada3:55b6:4347:36f1 cjdns.mtbentley.us 
+fc51:57de:bdef:e439:ada3:55b6:4347:36f1 cjdns.mtbentley.us
 fc52:a1da:9349:5768:b765:bb26:eb53:38e1 fvz-rec-de-sn-01 fvz-rec-de-sn-01.h.dnsrec.meo.ws
 fc53:dcc5:e89d:9082:4097:6622:5e82:c654 h.fc00.org ovh.zielmicha.com
 fc56:8313:1e14:1a50:0c01:0850:a53e:7127 cel.hype
 fc56:ed02:4f42:362f:baa1:62a1:fb28:6a25 start-com.ru
+fc57:0385:f658:df8f:e557:44c6:3acd:091e usa.smash-net.org
 fc59:36a2:27a9:ccf3:1903:9fc6:5a8f:7499 gitboria.com
 fc5e:1bc7:c31c:993b:a784:cb7b:bf97:e2d3 fvz-rec-us-fl-01 fvz-rec-us-fl-01.h.dnsrec.meo.ws
 fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
@@ -65,13 +66,14 @@ fca8:2dd7:4987:a9be:c8fc:34d7:5a1:4606  irc.hypeirc.net
 fca8:7de6:7540:86ae:e441:cc7e:b212:9447 fvz-rec-fr-sxb-01 fvz-rec-fr-sxb-01.h.dnsrec.meo.ws
 fcaf:d0c4:73af:623a:4a4d:95f4:7dab:6516 fvz-rec-nl-nh-01 fvz-rec-nl-nh-01.h.dnsrec.meo.ws
 fcb3:f:9f8a:332c:92c6:ce84:c581:5c1c    ru.spb.shnatsel.hype
-fcbb:98bd:d44f:40dc:426c:4971:b6b1:7bd6 hype.smash-net.org
+fcbb:98bd:d44f:40dc:426c:4971:b6b1:7bd6 ams.smash-net.org
 fcbb:ecc7:c97b:78f:dd78:7a0c:3c0c:46be fvz-rec-us-tx-01 fvz-rec-us-tx-01.h.dnsrec.meo.ws
 fcbf:7bbc:32e4:716:bd00:e936:c927:fc14  appno.de irc.appno.de irc.hypeirc.net
-fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hypecloud.smash-net.org
-fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype 
+fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hype.smash-net.org hypecloud.smash-net.org smash-net.org
+fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype
 fcc6:700e:1577:b2df:20cc:3ece:24ff:3fa7 h.seattlemesh.net h.pad.meshwith.me
 fcc7:1f86:f366:dacd:d5ea:cfc4:8921:1bbc fvz-rec-us-ga-01 fvz-rec-us-ga-01.h.dnsrec.meo.ws
+fcc8:dc3e:087c:e807:f4f2:b3c5:a978:996a sing.smash-net.org
 fccb:a83:7716:b926:a226:46cc:92df:b6ef fvz-rec-ca-on-01 fvz-rec-ca-on-01.h.dnsrec.meo.ws
 fccb:c308:4b13:fc55:cd:1dba:963e:d3b5   h.nl-hx.com
 fccc:492e:ef20:3b5c:f410:e8e5:2f14:4f1f fvz-rec-lv-rix-01 fvz-rec-lv-rix-01.h.dnsrec.meo.ws
