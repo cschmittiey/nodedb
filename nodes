@@ -17,6 +17,7 @@ fc1b:978e:d2be:dd1a:87f3:98f7:78e1:7871 fvz-rec-jp-tk-01 fvz-rec-jp-tk-01.h.dnsr
 fc1e:af9f:b436:7aa0:5bce:dfc:cba:c713   thefinn93.hype
 fc22:14d2:c859:631e:6964:a17e:e33f:157a fvz-rec-nz-auk-01 fvz-rec-nz-auk-01.h.dnsrec.meo.ws
 fc27:2caf:22ed:6ab8:18af:bab8:a1fb:758e h.diasp.ca
+fc29:9fda:3b73:c1d2:9302:31e3:964c:144c h.gateway.ipfs.io/1
 fc2a:89a2:f636:5aa2:9c84:4648:6118:eb19 fvz-rec-de-dus-01 fvz-rec-de-dus-01.h.dnsrec.meo.ws
 fc2c:8e8b:9004:594f:96a2:52d4:193e:53a6 fvz-rec-us-nj-01 fvz-rec-us-nj-01.h.dnsrec.meo.ws
 fc2e:d353:6025:45f5:91d0:a312:815f:56c2 fvz-rec-hk-ztw-01 fvz-rec-hk-ztw-01.h.dnsrec.meo.ws
@@ -116,8 +117,10 @@ fcce:3057:2d8e:395e:83c4:4ac9:26ae:7758 fvz-rec-is-haf-01 fvz-rec-is-haf-01.h.dn
 fcd3:d327:97e5:98bd:90bc:a7bb:c72a:3382 fvz-rec-il-tlv-01 fvz-rec-il-tlv-01.h.dnsrec.meo.ws
 fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7 mesh.roaming-initiative.com
 fcd7:164f:b5be:7542:513b:3661:3d4f:3601 cjdns.ncry.pt
+fcd8:a4e5:3af7:557e:72e5:f9d1:a599:e329 h.gateway.ipfs.io/2
 fcdb:2448:a6fa:2e6d:cd9d:e7f2:754f:cb84 fvz-rec-eg-cai-01 fvz-rec-eg-cai-01.h.dnsrec.meo.ws
 fcdb:caba:db15:3fab:433f:fe88:1a57:cef3 nyc.cjdns.drsn0w.net
+fcdf:a296:afe3:7118:4135:cc0b:ff92:4585 h.gateway.ipfs.io/3
 fce3:14aa:64d0:f72a:cb3f:6c04:3943:ffb6 ch1.neboard.me
 fce3:f7bd:dfc4:1da6:a141:132:221d:4bdb  hype.librecmc.com
 fce4:303:c6af:ca2e:451c:4d:ac1b:31bf fvz-rec-lt-vno-01 fvz-rec-lt-vno-01.h.dnsrec.meo.ws
@@ -135,3 +138,4 @@ fcf5:894b:a246:fa31:f395:6e8d:31b6:f9f9 h.nup.pw
 fcfa:be9c:c50d:391e:299b:ed37:4207:d72f fvz-rec-it-mi-01 fvz-rec-it-mi-01.h.dnsrec.meo.ws
 fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
 fcfe:23f7:1064:b45a:8515:70f0:5651:b606 lon.cjdns.drsn0w.net
+fcfe:eab4:e49c:940f:8b29:35a4:8ea8:b01a h.gateway.ipfs.io/4
