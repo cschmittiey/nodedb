@@ -15,11 +15,13 @@ fc1a:30b2:64ab:f05:8246:4c54:2895:eb10 fvz-rec-hu-bud-01 fvz-rec-hu-bud-01.h.dns
 fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c pad.meshwith.me
 fc1b:978e:d2be:dd1a:87f3:98f7:78e1:7871 fvz-rec-jp-tk-01 fvz-rec-jp-tk-01.h.dnsrec.meo.ws
 fc1e:af9f:b436:7aa0:5bce:dfc:cba:c713   thefinn93.hype
+fc1f:cfb1:ca74:f586:9ce7:5ca1:fcd3:acf h.sublab3.leipzig.freifunk.net
 fc22:14d2:c859:631e:6964:a17e:e33f:157a fvz-rec-nz-auk-01 fvz-rec-nz-auk-01.h.dnsrec.meo.ws
 fc27:2caf:22ed:6ab8:18af:bab8:a1fb:758e h.diasp.ca
 fc29:9fda:3b73:c1d2:9302:31e3:964c:144c h.gateway.ipfs.io/1
 fc2a:89a2:f636:5aa2:9c84:4648:6118:eb19 fvz-rec-de-dus-01 fvz-rec-de-dus-01.h.dnsrec.meo.ws
 fc2c:8e8b:9004:594f:96a2:52d4:193e:53a6 fvz-rec-us-nj-01 fvz-rec-us-nj-01.h.dnsrec.meo.ws
+fc2d:1cb2:5099:dcb1:d142:841c:c326:8187 h.gates.leipzig.freifunk.net
 fc2e:d353:6025:45f5:91d0:a312:815f:56c2 fvz-rec-hk-ztw-01 fvz-rec-hk-ztw-01.h.dnsrec.meo.ws
 fc2f:6bb5:9236:99e7:c9bf:f28f:d14e:450b h.crab.im rss.dryware.org
 fc33:7f46:c5e7:713b:6cbd:a8f2:1807:75ea fvz-rec-at-vie-02 fvz-rec-at-vie-02.h.dnsrec.meo.ws
@@ -49,8 +51,11 @@ fc57:0385:f658:df8f:e557:44c6:3acd:091e usa.smash-net.org
 fc58:d414:d061:fbb7:a199:a64e:7bd8:c0cc a1.h.magik6k.net
 fc59:36a2:27a9:ccf3:1903:9fc6:5a8f:7499 gitboria.com
 fc5e:1bc7:c31c:993b:a784:cb7b:bf97:e2d3 fvz-rec-us-fl-01 fvz-rec-us-fl-01.h.dnsrec.meo.ws
+fc5e:67ca:df62:a01e:b525:82c4:6466:2b12 h.74.leipzig.freifunk.net
 fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
+fc61:f0ee:55ac:ac18:c90b:46c6:238b:556a h.vpnb.leipzig.freifunk.net
 fc64:2b96:ac3b:239a:713a:82be:9780:a9a7 fvz-rec-ru-led-01 fvz-rec-ru-led-01.h.dnsrec.meo.ws
+fc64:a85b:588f:7436:4f3c:f02a:ea87:d038 h.71.leipzig.freifunk.net
 fc67:9816:2ccc:c4c2:f76c:1d09:a7a5:44e h.mahmud.berlinmesh.net
 fc68:4444:9c8d:7936:4e9d:1470:b2cc:677f h.n1.kubuxu.ovh
 fc68:d76c:ee8b:88c4:a994:286c:2126:fb35 fvz-rec-za-wc-01 fvz-rec-za-wc-01.h.dnsrec.meo.ws
@@ -60,6 +65,7 @@ fc6c:b3f3:eb2b:515e:21ab:f783:5f04:11fb fvz-rec-in-pnq-01 fvz-rec-in-pnq-01.h.dn
 fc6d:2b11:4680:1c9a:5f05:8cea:4332:5e1c fvz-rec-ch-zrh-01 fvz-rec-ch-zrh-01.h.dnsrec.meo.ws
 fc6d:c723:8c35:4f98:f1f8:7a12:ed05:61f3 fvz-rec-au-nsw-01 fvz-rec-au-nsw-01.h.dnsrec.meo.ws
 fc6e:9c71:5c46:5c72:c768:1d74:8887:c3d fvz-rec-sg-ea-01 fvz-rec-sg-ea-01.h.dnsrec.meo.ws
+fc73:1aa0:8808:a5da:16af:b025:f356:bfff h.sublab.leipzig.freifunk.net
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
 fc75:a699:c091:62a7:bae3:b1d8:1385:f55c ru.spb.atommixz.hype
 fc79:4516:3c53:f3de:4875:9e77:fb70:705c h.hitecnologys.org
@@ -69,6 +75,7 @@ fc7e:9262:cf2a:eef8:6b9d:34ca:bb53:fe66 h2.hitecnologys.org
 fc7e:f26f:4e28:f5c3:5d79:149d:51f5:7c2d fvz-rec-ro-bu-01 fvz-rec-ro-bu-01.h.dnsrec.meo.ws
 fc7f:3d04:419f:e9b0:526f:fc6a:576:cba0 h.amadeu.berlinmesh.net
 fc80:2426:bdb4:4000:4161:30d4:5d14:2e71 fvz-rec-nl-fl-01 fvz-rec-nl-fl-01.h.dnsrec.meo.ws
+fc82:a1ac:75ca:4dfc:81dc:a9fc:7656:f762 h.vpnd.leipzig.freifunk.net
 fc86:8e53:3fc0:8b78:6037:2fcc:fd54:471 fvz-rec-sa-ruh-01 fvz-rec-sa-ruh-01.h.dnsrec.meo.ws
 fc87:62ba:d6c:fdf4:bc5f:ad94:f38b:4cb4 fvz-rec-lu-ros-01 fvz-rec-lu-ros-01.h.dnsrec.meo.ws
 fc87:f729:c42b:8a74:9e05:916f:7b80:6df4 UnexpectedConsequence.astriaporta.space h.astriaporta.space
@@ -114,6 +121,7 @@ fccc:492e:ef20:3b5c:f410:e8e5:2f14:4f1f fvz-rec-lv-rix-01 fvz-rec-lv-rix-01.h.dn
 fccc:64de:a7a9:54ec:4812:b5b0:20a7:fbd8 Australis.exotic.equipment h.exotic.equipment
 fccc:ed16:bc2d:317f:b43f:69f0:ef29:97cd fvz-rec-li-baz-01 fvz-rec-li-baz-01.h.dnsrec.meo.ws
 fcce:3057:2d8e:395e:83c4:4ac9:26ae:7758 fvz-rec-is-haf-01 fvz-rec-is-haf-01.h.dnsrec.meo.ws
+fcd1:f75f:c0aa:8340:2c4b:acc1:57b4:ecc6 h.204.leipzig.freifunk.net
 fcd3:d327:97e5:98bd:90bc:a7bb:c72a:3382 fvz-rec-il-tlv-01 fvz-rec-il-tlv-01.h.dnsrec.meo.ws
 fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7 mesh.roaming-initiative.com
 fcd7:164f:b5be:7542:513b:3661:3d4f:3601 cjdns.ncry.pt
@@ -139,3 +147,4 @@ fcfa:be9c:c50d:391e:299b:ed37:4207:d72f fvz-rec-it-mi-01 fvz-rec-it-mi-01.h.dnsr
 fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
 fcfe:23f7:1064:b45a:8515:70f0:5651:b606 lon.cjdns.drsn0w.net
 fcfe:eab4:e49c:940f:8b29:35a4:8ea8:b01a h.gateway.ipfs.io/4
+fcff:9613:6f0c:43f9:a8a9:5c8c:1f09:7729 fvz-rec-is-hf-01 fvz-rec-is-hf-01.h.dnsrec.meo.ws
