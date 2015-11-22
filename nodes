@@ -10,6 +10,7 @@ fc0d:390b:172e:7883:8073:8c23:e159:f09f h.cynical.us
 fc0d:5bba:0969:82b6:8f96:1721:a6d1:4e35 cz.prague.atommixz.hype dc.on.hyperboria.name radio.on.hyperboria.name
 fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd meshnet.pl/ovh
 fc12:1579:741a:0351:bd82:36ec:0d2f:e6d3 tx-hype.tk
+fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14 h.own.darkcloud.ca
 fc13:86d1:c2e3:994b:8dad:4537:b0b5:a025 poolno.de
 fc17:8e2d:6a7:5e5c:321c:2a16:fe2b:8c9b fvz-rec-pl-waw-01 fvz-rec-pl-waw-01.h.dnsrec.meo.ws
 fc19:b282:3393:b6e3:d06d:5e21:680f:d93e tx.ipv4.pl
@@ -68,6 +69,7 @@ fc6c:b3f3:eb2b:515e:21ab:f783:5f04:11fb fvz-rec-in-pnq-01 fvz-rec-in-pnq-01.h.dn
 fc6d:2b11:4680:1c9a:5f05:8cea:4332:5e1c fvz-rec-ch-zrh-01 fvz-rec-ch-zrh-01.h.dnsrec.meo.ws
 fc6d:c723:8c35:4f98:f1f8:7a12:ed05:61f3 fvz-rec-au-nsw-01 fvz-rec-au-nsw-01.h.dnsrec.meo.ws
 fc6e:9c71:5c46:5c72:c768:1d74:8887:c3d fvz-rec-sg-ea-01 fvz-rec-sg-ea-01.h.dnsrec.meo.ws
+fc72:c065:f915:838e:f158:2242:a871:c719 h.darkcloud.ca
 fc73:1aa0:8808:a5da:16af:b025:f356:bfff h.sublab.leipzig.freifunk.net
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
 fc75:a699:c091:62a7:bae3:b1d8:1385:f55c ru.spb.atommixz.hype
@@ -150,6 +152,7 @@ fcf4:6e6b:4304:19b8:4672:9f40:90c3:af2b hypesearch.magik6k.net
 fcf4:e309:14b5:5498:cafd:4f59:4b9c:7f84 h.vps.cjdns.ca irc.hypeirc.net
 fcf5:894b:a246:fa31:f395:6e8d:31b6:f9f9 h.nup.pw
 fcfa:be9c:c50d:391e:299b:ed37:4207:d72f fvz-rec-it-mi-01 fvz-rec-it-mi-01.h.dnsrec.meo.ws
+fcfc:5d70:99b6:4e0c:cba6:61ec:434b:df1a h.julian.meshwith.me
 fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
 fcfe:23f7:1064:b45a:8515:70f0:5651:b606 lon.cjdns.drsn0w.net
 fcfe:eab4:e49c:940f:8b29:35a4:8ea8:b01a h.gateway.ipfs.io/4
