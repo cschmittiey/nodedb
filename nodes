@@ -12,6 +12,7 @@ fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd meshnet.pl/ovh
 fc12:1579:741a:0351:bd82:36ec:0d2f:e6d3 tx-hype.tk
 fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14 h.own.darkcloud.ca
 fc13:86d1:c2e3:994b:8dad:4537:b0b5:a025 poolno.de
+fc15:491b:549:9d8a:8480:45f8:bd10:a53e hype.willeponken.me
 fc17:8e2d:6a7:5e5c:321c:2a16:fe2b:8c9b fvz-rec-pl-waw-01 fvz-rec-pl-waw-01.h.dnsrec.meo.ws
 fc19:b282:3393:b6e3:d06d:5e21:680f:d93e tx.ipv4.pl
 fc1a:30b2:64ab:f05:8246:4c54:2895:eb10 fvz-rec-hu-bud-01 fvz-rec-hu-bud-01.h.dnsrec.meo.ws
@@ -52,6 +53,7 @@ fc51:a2ce:1ec4:ff09:3fec:c03c:473c:e9ad fvz-rec-es-mad-01 fvz-rec-es-mad-01.h.dn
 fc52:a1da:9349:5768:b765:bb26:eb53:38e1 fvz-rec-de-sn-01 fvz-rec-de-sn-01.h.dnsrec.meo.ws
 fc53:dcc5:e89d:9082:4097:6622:5e82:c654 h.fc00.org ovh.zielmicha.com
 fc56:8313:1e14:1a50:0c01:0850:a53e:7127 cel.hype
+fc56:8313:1e14:1a50:c01:850:a53e:7127 h.celehner.com
 fc56:ed02:4f42:362f:baa1:62a1:fb28:6a25 start-com.ru
 fc57:0385:f658:df8f:e557:44c6:3acd:091e usa.smash-net.org
 fc58:d414:d061:fbb7:a199:a64e:7bd8:c0cc a1.h.magik6k.net
@@ -67,6 +69,7 @@ fc68:4444:9c8d:7936:4e9d:1470:b2cc:677f h.n1.kubuxu.ovh
 fc68:d76c:ee8b:88c4:a994:286c:2126:fb35 fvz-rec-za-wc-01 fvz-rec-za-wc-01.h.dnsrec.meo.ws
 fc68:f326:fd82:e1e3:fe70:8894:11c6:7685 z9.hamburg.ccc.de
 fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3 transitiontech.ca/public
+fc6c:32ef:bf09:15ff:a66:dffb:f467:70bf h.cicolina.org
 fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 atommixz.hype
 fc6c:b3f3:eb2b:515e:21ab:f783:5f04:11fb fvz-rec-in-pnq-01 fvz-rec-in-pnq-01.h.dnsrec.meo.ws
 fc6d:2b11:4680:1c9a:5f05:8cea:4332:5e1c fvz-rec-ch-zrh-01 fvz-rec-ch-zrh-01.h.dnsrec.meo.ws
@@ -92,6 +95,7 @@ fc89:d20e:99db:7374:9efc:a0b7:3c19:d3db siberian-cat.hype
 fc8a:14e1:c4ab:23c6:9383:47fe:d68a:6931 fvz-rec-gb-eng-01 fvz-rec-gb-eng-01.h.dnsrec.meo.ws
 fc8a:79d5:4cc0:377c:9ae6:df2b:564f:09cc dangranos.hype sigrun.ru.barnaul.dangranos.hype
 fc8b:a7b:b0c0:28f8:7488:5774:f622:9b72  shawnserver.hype
+fc8d:3d5a:dc4f:567e:cb3d:cbd4:de87:28f0 nxt.cloudns.pw
 fc8f:2d5e:41f8:83e:c45f:735:bda:1984    hypegw.hype
 fc94:9415:3aa1:d1aa:e456:456c:76b0:bc7 fvz-rec-de-fra-01 fvz-rec-de-fra-01.h.dnsrec.meo.ws
 fc99:2f4:7795:c86c:36bd:63ae:cf49:d459  seanode.meshwith.me
