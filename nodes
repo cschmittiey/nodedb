@@ -27,6 +27,7 @@ fc29:9fda:3b73:c1d2:9302:31e3:964c:144c h.gateway.ipfs.io/1
 fc2a:89a2:f636:5aa2:9c84:4648:6118:eb19 fvz-rec-de-dus-01 fvz-rec-de-dus-01.h.dnsrec.meo.ws
 fc2c:8e8b:9004:594f:96a2:52d4:193e:53a6 fvz-rec-us-nj-01 fvz-rec-us-nj-01.h.dnsrec.meo.ws
 fc2d:1cb2:5099:dcb1:d142:841c:c326:8187 h.gates.leipzig.freifunk.net
+fc2e:41c8:b05f:d80b:8b23:3dbc:d53a:6fae oracle.h.sfunk1x.com
 fc2e:d353:6025:45f5:91d0:a312:815f:56c2 fvz-rec-hk-ztw-01 fvz-rec-hk-ztw-01.h.dnsrec.meo.ws
 fc2f:6bb5:9236:99e7:c9bf:f28f:d14e:450b h.crab.im rss.dryware.org
 fc33:7f46:c5e7:713b:6cbd:a8f2:1807:75ea fvz-rec-at-vie-02 fvz-rec-at-vie-02.h.dnsrec.meo.ws
@@ -37,6 +38,7 @@ fc3a:49cf:2dc8:7964:422a:61cd:e9f6:6e59 fvz-rec-tr-ist-01 fvz-rec-tr-ist-01.h.dn
 fc3a:956e:4b69:1c1e:5ebc:11a5:3e71:3e7e uppit.us
 fc3b:f894:81ab:a060:149c:7d61:87b7:2ef9 cjdns.ve7alb.ca
 fc3d:9b94:8d0e:8e88:72d3:2193:9425:6574 h.zorg.kyriasis.com
+fc41:b:79ba:fd42:419a:368:c0e8:1d7f blackbox.h.sfunk1x.com
 fc42:ba29:491e:9ef5:2ce1:6fd0:7f9f:9c09 us.ga.atlanta.gme.hype
 fc43:d88c:39a1:8746:538:b247:4695:cdb6 fvz-rec-vn-sgn-01 fvz-rec-vn-sgn-01.h.dnsrec.meo.ws
 fc46:d480:61bb:658e:8936:4547:70ea:f628 rainbow.exit.li
@@ -65,6 +67,7 @@ fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
 fc61:f0ee:55ac:ac18:c90b:46c6:238b:556a h.vpnb.leipzig.freifunk.net
 fc64:2b96:ac3b:239a:713a:82be:9780:a9a7 fvz-rec-ru-led-01 fvz-rec-ru-led-01.h.dnsrec.meo.ws
 fc64:a85b:588f:7436:4f3c:f02a:ea87:d038 h.71.leipzig.freifunk.net
+fc65:9455:939a:d7c0:9979:6df7:5250:dd05 om.h.sfunk1x.com
 fc67:9816:2ccc:c4c2:f76c:1d09:a7a5:44e h.mahmud.berlinmesh.net
 fc68:4444:9c8d:7936:4e9d:1470:b2cc:677f h.n1.kubuxu.ovh
 fc68:d76c:ee8b:88c4:a994:286c:2126:fb35 fvz-rec-za-wc-01 fvz-rec-za-wc-01.h.dnsrec.meo.ws
