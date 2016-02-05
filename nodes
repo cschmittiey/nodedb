@@ -3,7 +3,7 @@ fc00:10c1:9cec:1f1d:9513:c25b:a674:177a s1.c1.h.magik6k.net
 fc02:2735:e595:bb70:8ffc:5293:8af8:c4b7 h.magik6k.net
 fc03:2773:2815:2016:be23:98a7:a601:a062 cjdns.vrs.hostv.pl
 fc04:b1cc:7784:bace:6273:aae5:457:d21a  h.hellomouse.tk
-fc06:8a25:9a6e:1858:b296:30e9:7dc3:0294 shiro.hiiragi.link
+fc06:8a25:9a6e:1858:b296:30e9:7dc3:0294 shiro.cjdns.link
 fc08:fa0c:d028:6e88:c682:78a4:1f8a:e01b anything.exit.li
 fc09:ebc3:7aa6:6c73:db72:1bd:8e6e:c48b fvz-rec-no-osl-01 fvz-rec-no-osl-01.h.dnsrec.meo.ws
 fc0a:484c:ea6d:c325:dcb6:36a0:4f33:427c txpi.tx1683.emc
@@ -75,6 +75,7 @@ fc68:4444:9c8d:7936:4e9d:1470:b2cc:677f h.n1.kubuxu.ovh
 fc68:d76c:ee8b:88c4:a994:286c:2126:fb35 fvz-rec-za-wc-01 fvz-rec-za-wc-01.h.dnsrec.meo.ws
 fc68:f326:fd82:e1e3:fe70:8894:11c6:7685 z9.hamburg.ccc.de
 fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3 transitiontech.ca/public
+fc6b:d2fd:f96e:35a2:0483:c697:393c:a12b ringo.cjdns.link
 fc6c:32ef:bf09:15ff:a66:dffb:f467:70bf h.cicolina.org
 fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 atommixz.hype
 fc6c:b3f3:eb2b:515e:21ab:f783:5f04:11fb fvz-rec-in-pnq-01 fvz-rec-in-pnq-01.h.dnsrec.meo.ws
@@ -99,6 +100,7 @@ fc82:a1ac:75ca:4dfc:81dc:a9fc:7656:f762 h.vpnd.leipzig.freifunk.net
 fc86:8e53:3fc0:8b78:6037:2fcc:fd54:471 fvz-rec-sa-ruh-01 fvz-rec-sa-ruh-01.h.dnsrec.meo.ws
 fc87:62ba:d6c:fdf4:bc5f:ad94:f38b:4cb4 fvz-rec-lu-ros-01 fvz-rec-lu-ros-01.h.dnsrec.meo.ws
 fc87:f729:c42b:8a74:9e05:916f:7b80:6df4 UnexpectedConsequence.astriaporta.space h.astriaporta.space
+fc88:22b7:2274:bd9a:8ae8:9d73:e797:eb60 chen.cjdns.link
 fc88:c649:1d80:e13f:4206:4b3e:e1e3:bc37 h.vs1.kubuxu.ovh
 fc89:be4d:3dcd:5c80:548e:a1d6:ed25:e429 32c3
 fc89:d20e:99db:7374:9efc:a0b7:3c19:d3db siberian-cat.hype
@@ -138,7 +140,7 @@ fcbd:5668:fe09:043a:d838:0181:6b51:ba5e yeti.exit.li
 fcbf:7bbc:32e4:716:bd00:e936:c927:fc14  appno.de irc.appno.de irc.hypeirc.net
 fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hype.smash-net.org smash-net.org
 fcc1:1c05:ced1:a1c7:5820:fa7e:95cd:9f69 fvz-rec-fr-sbg-01 fvz-rec-fr-sbg-01.h.dnsrec.meo.ws
-fcc2:214d:e543:bf7c:96a6:d234:6908:e55a nyakiss.hiiragi.link
+fcc2:214d:e543:bf7c:96a6:d234:6908:e55a nyakiss.cjdns.link
 fcc3:2d0f:673b:1529:d8eb:ef61:5be2:5592 fvz-rec-pt-lis-01 fvz-rec-pt-lis-01.h.dnsrec.meo.ws
 fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype
 fcc6:700e:1577:b2df:20cc:3ece:24ff:3fa7 h.seattlemesh.net h.pad.meshwith.me
@@ -151,16 +153,18 @@ fccb:cd80:c03:62bf:8cb:2cb:3e05:1f08 fvz-rec-at-vie-01 fvz-rec-at-vie-01.h.dnsre
 fccc:492e:ef20:3b5c:f410:e8e5:2f14:4f1f fvz-rec-lv-rix-01 fvz-rec-lv-rix-01.h.dnsrec.meo.ws
 fccc:64de:a7a9:54ec:4812:b5b0:20a7:fbd8 Australis.exotic.equipment h.exotic.equipment
 fccc:ed16:bc2d:317f:b43f:69f0:ef29:97cd fvz-rec-li-baz-01 fvz-rec-li-baz-01.h.dnsrec.meo.ws
-fccd:873d:246c:f795:1e15:accd:879d:f373 shiki.hiiragi.link
+fccd:873d:246c:f795:1e15:accd:879d:f373 shiki.cjdns.link
 fcce:3057:2d8e:395e:83c4:4ac9:26ae:7758 fvz-rec-is-haf-01 fvz-rec-is-haf-01.h.dnsrec.meo.ws
 fcd1:f75f:c0aa:8340:2c4b:acc1:57b4:ecc6 h.204.leipzig.freifunk.net
 fcd3:d327:97e5:98bd:90bc:a7bb:c72a:3382 fvz-rec-il-tlv-01 fvz-rec-il-tlv-01.h.dnsrec.meo.ws
 fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7 mesh.roaming-initiative.com
 fcd7:164f:b5be:7542:513b:3661:3d4f:3601 cjdns.ncry.pt
+fcd7:6201:34d6:f65d:62cf:d6f6:308f:c435 senpai.cjdns.link
 fcd8:a4e5:3af7:557e:72e5:f9d1:a599:e329 h.gateway.ipfs.io/2
 fcdb:2448:a6fa:2e6d:cd9d:e7f2:754f:cb84 fvz-rec-eg-cai-01 fvz-rec-eg-cai-01.h.dnsrec.meo.ws
 fcdb:caba:db15:3fab:433f:fe88:1a57:cef3 nyc.cjdns.drsn0w.net
 fcdf:a296:afe3:7118:4135:cc0b:ff92:4585 h.gateway.ipfs.io/3
+fce0:5adc:17ee:f997:c110:adaa:26d9:0f36 nagi.cjdns.link
 fce3:14aa:64d0:f72a:cb3f:6c04:3943:ffb6 ch1.neboard.me
 fce3:f7bd:dfc4:1da6:a141:132:221d:4bdb  hype.librecmc.com
 fce4:303:c6af:ca2e:451c:4d:ac1b:31bf fvz-rec-lt-vno-01 fvz-rec-lt-vno-01.h.dnsrec.meo.ws
