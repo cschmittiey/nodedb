@@ -24,7 +24,6 @@ fc1e:af9f:b436:7aa0:5bce:dfc:cba:c713   thefinn93.hype
 fc1f:cfb1:ca74:f586:9ce7:5ca1:fcd3:acf h.sublab3.leipzig.freifunk.net
 fc22:14d2:c859:631e:6964:a17e:e33f:157a fvz-rec-nz-auk-01 fvz-rec-nz-auk-01.h.dnsrec.meo.ws
 fc27:2caf:22ed:6ab8:18af:bab8:a1fb:758e h.diasp.ca
-fc47:fa91:dfc5:d6a4:c428:be6b:d16:bdef h.rethymno-meshnet.tk
 fc29:9fda:3b73:c1d2:9302:31e3:964c:144c h.gateway.ipfs.io/1
 fc2a:89a2:f636:5aa2:9c84:4648:6118:eb19 fvz-rec-de-dus-01 fvz-rec-de-dus-01.h.dnsrec.meo.ws
 fc2c:8e8b:9004:594f:96a2:52d4:193e:53a6 fvz-rec-us-nj-01 fvz-rec-us-nj-01.h.dnsrec.meo.ws
@@ -46,7 +45,10 @@ fc3d:9b94:8d0e:8e88:72d3:2193:9425:6574 h.zorg.kyriasis.com
 fc41:b:79ba:fd42:419a:368:c0e8:1d7f blackbox.h.sfunk1x.com
 fc42:ba29:491e:9ef5:2ce1:6fd0:7f9f:9c09 us.ga.atlanta.gme.hype
 fc43:d88c:39a1:8746:538:b247:4695:cdb6 fvz-rec-vn-sgn-01 fvz-rec-vn-sgn-01.h.dnsrec.meo.ws
+fc46:969d:75a7:b38e:1c2e:954b:3c24:a9a3 h.ca.hub.icfreedom.net
+
 fc46:d480:61bb:658e:8936:4547:70ea:f628 rainbow.exit.li
+fc47:fa91:dfc5:d6a4:c428:be6b:d16:bdef h.rethymno-meshnet.tk
 fc48:238f:1b3b:e867:4f77:3fe1:8d09:b44e hype.ippolitov.me
 fc49:4bb0:30f4:5ea5:eaa:1484:7d37:68ef  h.xmpp.rows.io
 fc49:8be3:42b7:4f0c:4e68:563f:dac6:e259 lukevers.com
@@ -67,6 +69,8 @@ fc57:0385:f658:df8f:e557:44c6:3acd:091e usa.smash-net.org
 fc58:d414:d061:fbb7:a199:a64e:7bd8:c0cc a1.h.magik6k.net
 fc59:36a2:27a9:ccf3:1903:9fc6:5a8f:7499 gitboria.com
 fc59:d9d1:2739:ca8d:b48a:45a5:352a:be35 peer1.fc00.org
+fc5b:22d1:ea43:6efc:bbe0:8eb8:8145:428d h.hub.icfreedom.net
+
 fc5e:1bc7:c31c:993b:a784:cb7b:bf97:e2d3 fvz-rec-us-fl-01 fvz-rec-us-fl-01.h.dnsrec.meo.ws
 fc5e:67ca:df62:a01e:b525:82c4:6466:2b12 h.74.leipzig.freifunk.net
 fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
@@ -93,6 +97,8 @@ fc75:a699:c091:62a7:bae3:b1d8:1385:f55c ru.spb.atommixz.hype
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
 fc79:4516:3c53:f3de:4875:9e77:fb70:705c h.hitecnologys.org
 fc7b:e42e:7205:933c:1bb2:75f:6f6c:a93c radio.h.tissel.nu
+fc7c:402f:8302:967b:1a07:d0e0:cb4f:29a9 h.icfreedom.net
+
 fc7d:1a8e:b4a4:15c1:6fb8:2d41:abe1:ca17 fvz-rec-fi-ulv-01 fvz-rec-fi-ulv-01.h.dnsrec.meo.ws
 fc7d:5e80:f8bb:c92f:138a:cbf:b181:7750 mirror.explodie.org
 fc7d:ab19:d6f3:c721:afff:49bc:8749:3890 ru.msk-hx.hype
