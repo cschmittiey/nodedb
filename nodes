@@ -10,6 +10,7 @@ fc0a:484c:ea6d:c325:dcb6:36a0:4f33:427c txpi.tx1683.emc
 fc0c:603:5a2b:2b11:a7ec:8187:f4cd:b052 tx3.tx1683.emc
 fc0d:390b:172e:7883:8073:8c23:e159:f09f h.cynical.us
 fc0d:5bba:0969:82b6:8f96:1721:a6d1:4e35 cz.prague.atommixz.hype dc.on.hyperboria.name radio.on.hyperboria.name
+fc0e:d5e2:738c:c5a8:2cfc:af26:a366:5c1 h.us-west.hub.icfreedom.net
 fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd meshnet.pl/ovh
 fc12:1579:741a:0351:bd82:36ec:0d2f:e6d3 tx1.tx1683.emc
 fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14 h.own.darkcloud.ca
@@ -92,6 +93,7 @@ fc72:c065:f915:838e:f158:2242:a871:c719 h.darkcloud.ca
 fc73:1aa0:8808:a5da:16af:b025:f356:bfff h.sublab.leipzig.freifunk.net
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
 fc75:a699:c091:62a7:bae3:b1d8:1385:f55c ru.spb.atommixz.hype
+fc75:eba0:2caa:c3e8:1c36:6a81:a94a:ff12 h.eu-east.hub.icfreedom.net
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
 fc79:4516:3c53:f3de:4875:9e77:fb70:705c h.hitecnologys.org
 fc7b:e42e:7205:933c:1bb2:75f:6f6c:a93c radio.h.tissel.nu
@@ -153,6 +155,7 @@ fcbf:7bbc:32e4:716:bd00:e936:c927:fc14  appno.de irc.appno.de irc.hypeirc.net
 fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hype.smash-net.org smash-net.org
 fcc1:1c05:ced1:a1c7:5820:fa7e:95cd:9f69 fvz-rec-fr-sbg-01 fvz-rec-fr-sbg-01.h.dnsrec.meo.ws
 fcc3:2d0f:673b:1529:d8eb:ef61:5be2:5592 fvz-rec-pt-lis-01 fvz-rec-pt-lis-01.h.dnsrec.meo.ws
+fcc3:600d:ee24:b8ba:6cfb:c731:e293:4563 h.hk.hub.icfreedom.net
 fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype
 fcc6:700e:1577:b2df:20cc:3ece:24ff:3fa7 h.seattlemesh.net h.pad.meshwith.me
 fcc7:1f86:f366:dacd:d5ea:cfc4:8921:1bbc fvz-rec-us-ga-01 fvz-rec-us-ga-01.h.dnsrec.meo.ws
@@ -198,5 +201,3 @@ fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
 fcfe:23f7:1064:b45a:8515:70f0:5651:b606 lon.cjdns.drsn0w.net
 fcfe:eab4:e49c:940f:8b29:35a4:8ea8:b01a h.gateway.ipfs.io/4
 fcff:9613:6f0c:43f9:a8a9:5c8c:1f09:7729 fvz-rec-is-hf-01 fvz-rec-is-hf-01.h.dnsrec.meo.ws
-fc0e:d5e2:738c:c5a8:2cfc:af26:a366:5c1 h.us-west.hub.icfreedom.net
-fcc3:600d:ee24:b8ba:6cfb:c731:e293:4563 h.hk.hub.icfreedom.net
