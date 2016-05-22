@@ -14,7 +14,6 @@ fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd meshnet.pl/ovh
 fc12:1579:741a:0351:bd82:36ec:0d2f:e6d3 tx1.tx1683.emc
 fc13:6176:aaca:8c7f:9f55:924f:26b3:4b14 h.own.darkcloud.ca
 fc13:86d1:c2e3:994b:8dad:4537:b0b5:a025 poolno.de
-fc15:491b:549:9d8a:8480:45f8:bd10:a53e hype.willeponken.me
 fc15:e9cd:7cb4:5a04:a483:baa2:40f9:94c2 rin.cjdns.link
 fc17:8e2d:6a7:5e5c:321c:2a16:fe2b:8c9b fvz-rec-pl-waw-01 fvz-rec-pl-waw-01.h.dnsrec.meo.ws
 fc19:b282:3393:b6e3:d06d:5e21:680f:d93e txr.tx1683.emc
@@ -41,6 +40,7 @@ fc35:20c0:2327:d563:fe8e:284d:16e2:7b9b fvz-rec-se-ab-01 fvz-rec-se-ab-01.h.dnsr
 fc37:d756:3e93:43e8:7967:a923:9779:fd8e h.vovcia.net
 fc3a:49cf:2dc8:7964:422a:61cd:e9f6:6e59 fvz-rec-tr-ist-01 fvz-rec-tr-ist-01.h.dnsrec.meo.ws
 fc3a:956e:4b69:1c1e:5ebc:11a5:3e71:3e7e uppit.us
+fc3b:f1c1:b985:6dab:0fb9:0742:bb07:a7ba h.bliss.willeponken.me
 fc3b:f894:81ab:a060:149c:7d61:87b7:2ef9 cjdns.ve7alb.ca
 fc3d:86bc:b706:b99b:7746:6f28:d94c:46d0 h.cord.ventricle.us
 fc3d:9b94:8d0e:8e88:72d3:2193:9425:6574 h.zorg.kyriasis.com
@@ -97,7 +97,6 @@ fc75:a699:c091:62a7:bae3:b1d8:1385:f55c ru.spb.atommixz.hype
 fc75:eba0:2caa:c3e8:1c36:6a81:a94a:ff12 h.eu-east.hub.icfreedom.net
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
 fc79:4516:3c53:f3de:4875:9e77:fb70:705c h.hitecnologys.org
-fc7b:e42e:7205:933c:1bb2:75f:6f6c:a93c radio.h.tissel.nu
 fc7c:402f:8302:967b:1a07:d0e0:cb4f:29a9 h.icfreedom.net
 fc7d:1a8e:b4a4:15c1:6fb8:2d41:abe1:ca17 fvz-rec-fi-ulv-01 fvz-rec-fi-ulv-01.h.dnsrec.meo.ws
 fc7d:5e80:f8bb:c92f:138a:cbf:b181:7750 mirror.explodie.org
