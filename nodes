@@ -2,7 +2,7 @@ fc00:0:d7f:200e:e96:71f8:3ab:aead c2.h.magik6k.net
 fc00:10c1:9cec:1f1d:9513:c25b:a674:177a s1.c1.h.magik6k.net
 fc02:2735:e595:bb70:8ffc:5293:8af8:c4b7 h.magik6k.net
 fc03:2773:2815:2016:be23:98a7:a601:a062 cjdns.vrs.hostv.pl
-fc04:b1cc:7784:bace:6273:aae5:457:d21a  h.hellomouse.tk
+fc04:b1cc:7784:bace:6273:aae5:457:d21a  h.hellomouse.cf
 fc08:fa0c:d028:6e88:c682:78a4:1f8a:e01b anything.exit.li
 fc09:ebc3:7aa6:6c73:db72:1bd:8e6e:c48b fvz-rec-no-osl-01 fvz-rec-no-osl-01.h.dnsrec.meo.ws
 fc0a:484c:ea6d:c325:dcb6:36a0:4f33:427c txpi.tx1683.emc
@@ -197,6 +197,7 @@ fced:f97f:358b:80d5:7168:7af8:99b5:d5b0 fvz-rec-gr-ath-01 fvz-rec-gr-ath-01.h.dn
 fcf1:4069:e3c4:6e66:9460:b92b:b156:cb9f us.tx.dallas.coyo.hype
 fcf2:3489:892:6b5:18c0:d7ec:9c5:f30 fvz-rec-md-kiv-01 fvz-rec-md-kiv-01.h.dnsrec.meo.ws
 fcf2:ff45:a10:2ca1:fb5c:426d:3505:4f18  h.fleshless.org irc.dryware.org irc.hypeirc.net h.zfh.so
+fcf3:3cf7:47cc:e88d:7b7f:4d5a:96e4:977c h.vps.hellomouse.cf
 fcf4:6e6b:4304:19b8:4672:9f40:90c3:af2b hypesearch.magik6k.net
 fcf4:e309:14b5:5498:cafd:4f59:4b9c:7f84 h.vps.cjdns.ca irc.hypeirc.net
 fcf5:894b:a246:fa31:f395:6e8d:31b6:f9f9 h.nup.pw
