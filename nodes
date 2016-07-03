@@ -27,6 +27,7 @@ fc1e:dead:cafe:40cf:f8a1:ac20:437d:48ce kagami.cjdns.link
 fc1f:cfb1:ca74:f586:9ce7:5ca1:fcd3:acf h.sublab3.leipzig.freifunk.net
 fc22:14d2:c859:631e:6964:a17e:e33f:157a fvz-rec-nz-auk-01 fvz-rec-nz-auk-01.h.dnsrec.meo.ws
 fc27:2caf:22ed:6ab8:18af:bab8:a1fb:758e h.diasp.ca
+fc27:c048:7208:b329:c408:960e:9ebc:5f52 northeurope.transatlantic.h-ic.eu
 fc29:9fda:3b73:c1d2:9302:31e3:964c:144c h.gateway.ipfs.io/1
 fc2a:89a2:f636:5aa2:9c84:4648:6118:eb19 fvz-rec-de-dus-01 fvz-rec-de-dus-01.h.dnsrec.meo.ws
 fc2c:8e8b:9004:594f:96a2:52d4:193e:53a6 fvz-rec-us-nj-01 fvz-rec-us-nj-01.h.dnsrec.meo.ws
@@ -46,6 +47,7 @@ fc3b:f1c1:b985:6dab:0fb9:0742:bb07:a7ba h.bliss.willeponken.me
 fc3b:f894:81ab:a060:149c:7d61:87b7:2ef9 cjdns.ve7alb.ca
 fc3d:86bc:b706:b99b:7746:6f28:d94c:46d0 h.cord.ventricle.us
 fc3d:9b94:8d0e:8e88:72d3:2193:9425:6574 h.zorg.kyriasis.com
+fc41:735f:c68e:4d6e:c7fe:907b:975d:d6e openwrt.nat.h-ic.eu
 fc41:b:79ba:fd42:419a:368:c0e8:1d7f blackbox.h.sfunk1x.com
 fc42:ba29:491e:9ef5:2ce1:6fd0:7f9f:9c09 us.ga.atlanta.gme.hype
 fc43:d88c:39a1:8746:538:b247:4695:cdb6 fvz-rec-vn-sgn-01 fvz-rec-vn-sgn-01.h.dnsrec.meo.ws
@@ -76,6 +78,7 @@ fc59:d9d1:2739:ca8d:b48a:45a5:352a:be35 peer1.fc00.org
 fc5b:22d1:ea43:6efc:bbe0:8eb8:8145:428d h.hub.icfreedom.net
 fc5e:1bc7:c31c:993b:a784:cb7b:bf97:e2d3 fvz-rec-us-fl-01 fvz-rec-us-fl-01.h.dnsrec.meo.ws
 fc5e:67ca:df62:a01e:b525:82c4:6466:2b12 h.74.leipzig.freifunk.net
+fc5f:4575:e02d:f176:1996:241b:c0d5:5309 westeurope.transatlantic.h-ic.eu
 fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
 fc61:f0ee:55ac:ac18:c90b:46c6:238b:556a h.vpnb.leipzig.freifunk.net
 fc64:2b96:ac3b:239a:713a:82be:9780:a9a7 fvz-rec-ru-led-01 fvz-rec-ru-led-01.h.dnsrec.meo.ws
@@ -102,6 +105,7 @@ fc75:eba0:2caa:c3e8:1c36:6a81:a94a:ff12 h.eu-east.hub.icfreedom.net
 fc75:ef95:8b7a:ed51:5920:1f28:3797:45bd Spice-Birch.niles.xyz
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
 fc79:4516:3c53:f3de:4875:9e77:fb70:705c h.hitecnologys.org
+fc7b:e952:eab:806:68aa:347b:ad08:ac0b lynx.nat.h-ic.eu
 fc7c:402f:8302:967b:1a07:d0e0:cb4f:29a9 h.icfreedom.net
 fc7d:1a8e:b4a4:15c1:6fb8:2d41:abe1:ca17 fvz-rec-fi-ulv-01 fvz-rec-fi-ulv-01.h.dnsrec.meo.ws
 fc7d:5e80:f8bb:c92f:138a:cbf:b181:7750 mirror.explodie.org
@@ -112,6 +116,7 @@ fc7e:9262:cf2a:eef8:6b9d:34ca:bb53:fe66 h2.hitecnologys.org
 fc7e:f26f:4e28:f5c3:5d79:149d:51f5:7c2d fvz-rec-ro-bu-01 fvz-rec-ro-bu-01.h.dnsrec.meo.ws
 fc7f:3d04:419f:e9b0:526f:fc6a:576:cba0 h.amadeu.berlinmesh.net
 fc80:2426:bdb4:4000:4161:30d4:5d14:2e71 fvz-rec-nl-fl-01 fvz-rec-nl-fl-01.h.dnsrec.meo.ws
+fc82:7654:9d6a:e23f:fca6:59f5:79e8:50f0 eastusa.transatlantic.h-ic.eu
 fc82:a1ac:75ca:4dfc:81dc:a9fc:7656:f762 h.vpnd.leipzig.freifunk.net
 fc86:8e53:3fc0:8b78:6037:2fcc:fd54:471 fvz-rec-sa-ruh-01 fvz-rec-sa-ruh-01.h.dnsrec.meo.ws
 fc87:62ba:d6c:fdf4:bc5f:ad94:f38b:4cb4 fvz-rec-lu-ros-01 fvz-rec-lu-ros-01.h.dnsrec.meo.ws
@@ -164,6 +169,7 @@ fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hype.smash-net.org smash-net.org
 fcc1:1c05:ced1:a1c7:5820:fa7e:95cd:9f69 fvz-rec-fr-sbg-01 fvz-rec-fr-sbg-01.h.dnsrec.meo.ws
 fcc3:2d0f:673b:1529:d8eb:ef61:5be2:5592 fvz-rec-pt-lis-01 fvz-rec-pt-lis-01.h.dnsrec.meo.ws
 fcc3:600d:ee24:b8ba:6cfb:c731:e293:4563 h.hk.hub.icfreedom.net
+fcc4:5d7a:75cc:6014:fcd1:4a76:9894:f42d westusa.transatlantic.h-ic.eu
 fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype
 fcc6:700e:1577:b2df:20cc:3ece:24ff:3fa7 h.seattlemesh.net h.pad.meshwith.me
 fcc7:1f86:f366:dacd:d5ea:cfc4:8921:1bbc fvz-rec-us-ga-01 fvz-rec-us-ga-01.h.dnsrec.meo.ws
@@ -186,6 +192,7 @@ fcd7:6201:34d6:f65d:62cf:d6f6:308f:c435 senpai.cjdns.link
 fcd8:a4e5:3af7:557e:72e5:f9d1:a599:e329 h.gateway.ipfs.io/2
 fcdb:2448:a6fa:2e6d:cd9d:e7f2:754f:cb84 fvz-rec-eg-cai-01 fvz-rec-eg-cai-01.h.dnsrec.meo.ws
 fcdb:caba:db15:3fab:433f:fe88:1a57:cef3 nyc.cjdns.drsn0w.net
+fcdc:71fe:e8c2:f3ba:ca93:80f4:3d97:2096 edgerouter.nat.h-ic.eu
 fcdc:e168:e089:f053:b02c:738e:817d:2308 h.lithium.socialcoders.org
 fcde:4208:dead:face:9f23:a48a:0239:4d47 akarin.cjdns.link
 fcdf:a296:afe3:7118:4135:cc0b:ff92:4585 h.gateway.ipfs.io/3
@@ -217,10 +224,3 @@ fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
 fcfe:23f7:1064:b45a:8515:70f0:5651:b606 lon.cjdns.drsn0w.net
 fcfe:eab4:e49c:940f:8b29:35a4:8ea8:b01a h.gateway.ipfs.io/4
 fcff:9613:6f0c:43f9:a8a9:5c8c:1f09:7729 fvz-rec-is-hf-01 fvz-rec-is-hf-01.h.dnsrec.meo.ws
-fcdc:71fe:e8c2:f3ba:ca93:80f4:3d97:2096 edgerouter.nat.h-ic.eu
-fc41:735f:c68e:4d6e:c7fe:907b:975d:d6e openwrt.nat.h-ic.eu
-fc7b:e952:eab:806:68aa:347b:ad08:ac0b lynx.nat.h-ic.eu
-fc27:c048:7208:b329:c408:960e:9ebc:5f52 northeurope.transatlantic.h-ic.eu
-fc5f:4575:e02d:f176:1996:241b:c0d5:5309 westeurope.transatlantic.h-ic.eu
-fcc4:5d7a:75cc:6014:fcd1:4a76:9894:f42d westusa.transatlantic.h-ic.eu
-fc82:7654:9d6a:e23f:fca6:59f5:79e8:50f0 eastusa.transatlantic.h-ic.eu
