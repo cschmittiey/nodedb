@@ -65,6 +65,7 @@ fc4b:cb57:2405:5e2e:e740:bf5:6fe9:10bc fvz-rec-ie-du-01 fvz-rec-ie-du-01.h.dnsre
 fc4f:fb95:b233:cf7d:1d8e:899a:158c:839a fvz-rec-au-sa-01 fvz-rec-au-sa-01.h.dnsrec.meo.ws
 fc51:57de:bdef:e439:ada3:55b6:4347:36f1 cjdns.mtbentley.us
 fc51:a2ce:1ec4:ff09:3fec:c03c:473c:e9ad fvz-rec-es-mad-01 fvz-rec-es-mad-01.h.dnsrec.meo.ws
+fc51:b463:af07:abff:67e2:22ee:f8df:1aa h.pen.cwningen.cymru
 fc52:a1da:9349:5768:b765:bb26:eb53:38e1 fvz-rec-de-sn-01 fvz-rec-de-sn-01.h.dnsrec.meo.ws
 fc53:dcc5:e89d:9082:4097:6622:5e82:c654 h.fc00.org ovh.zielmicha.com
 fc56:8313:1e14:1a50:0c01:0850:a53e:7127 cel.hype
@@ -90,7 +91,7 @@ fc68:d76c:ee8b:88c4:a994:286c:2126:fb35 fvz-rec-za-wc-01 fvz-rec-za-wc-01.h.dnsr
 fc68:f326:fd82:e1e3:fe70:8894:11c6:7685 z9.hamburg.ccc.de
 fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3 transitiontech.ca/public
 fc6b:d2fd:f96e:35a2:0483:c697:393c:a12b ringo.cjdns.link
-fc6b:eb9a:8480:ebc7:8911:b9fd:414d:78a7 llygaid.cwningen.cymru
+fc6b:eb9a:8480:ebc7:8911:b9fd:414d:78a7 h.llygaid.cwningen.cymru
 fc6c:32ef:bf09:15ff:a66:dffb:f467:70bf h.cicolina.org
 fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 atommixz.hype
 fc6c:b3f3:eb2b:515e:21ab:f783:5f04:11fb fvz-rec-in-pnq-01 fvz-rec-in-pnq-01.h.dnsrec.meo.ws
@@ -120,7 +121,7 @@ fc80:2426:bdb4:4000:4161:30d4:5d14:2e71 fvz-rec-nl-fl-01 fvz-rec-nl-fl-01.h.dnsr
 fc82:7654:9d6a:e23f:fca6:59f5:79e8:50f0 eastusa.transatlantic.h-ic.eu
 fc82:a1ac:75ca:4dfc:81dc:a9fc:7656:f762 h.vpnd.leipzig.freifunk.net
 fc86:8e53:3fc0:8b78:6037:2fcc:fd54:471 fvz-rec-sa-ruh-01 fvz-rec-sa-ruh-01.h.dnsrec.meo.ws
-fc86:efa0:f090:ce57:5c9f:d5c3:c02f:2a15 wisgers.cwningen.cymru
+fc86:efa0:f090:ce57:5c9f:d5c3:c02f:2a15 h.wisgers.cwningen.cymru
 fc87:62ba:d6c:fdf4:bc5f:ad94:f38b:4cb4 fvz-rec-lu-ros-01 fvz-rec-lu-ros-01.h.dnsrec.meo.ws
 fc87:f729:c42b:8a74:9e05:916f:7b80:6df4 UnexpectedConsequence.astriaporta.space h.astriaporta.space
 fc88:22b7:2274:bd9a:8ae8:9d73:e797:eb60 chen.cjdns.link
@@ -167,7 +168,7 @@ fcbb:28cb:740:9d47:2f06:6650:f232:d561 fvz-rec-im-dgs-01 fvz-rec-im-dgs-01.h.dns
 fcbb:98bd:d44f:40dc:426c:4971:b6b1:7bd6 ams.smash-net.org
 fcbb:ecc7:c97b:78f:dd78:7a0c:3c0c:46be fvz-rec-us-tx-01 fvz-rec-us-tx-01.h.dnsrec.meo.ws
 fcbd:5668:fe09:043a:d838:0181:6b51:ba5e yeti.exit.li
-fcbe:7c6c:bffb:5b8d:eaab:af61:8e64:4ab penfar.cwningen.cymru
+fcbe:7c6c:bffb:5b8d:eaab:af61:8e64:4ab h.penfar.cwningen.cymru
 fcbf:7bbc:32e4:716:bd00:e936:c927:fc14  appno.de irc.appno.de irc.hypeirc.net
 fcc0:c0b2:2a14:7afc:5216:1854:1a2f:2c13 hype.smash-net.org smash-net.org
 fcc1:1c05:ced1:a1c7:5820:fa7e:95cd:9f69 fvz-rec-fr-sbg-01 fvz-rec-fr-sbg-01.h.dnsrec.meo.ws
