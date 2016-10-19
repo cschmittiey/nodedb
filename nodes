@@ -11,7 +11,7 @@ fc09:ebc3:7aa6:6c73:db72:1bd:8e6e:c48b fvz-rec-no-osl-01 fvz-rec-no-osl-01.h.dns
 fc0a:484c:ea6d:c325:dcb6:36a0:4f33:427c txpi.tx1683.emc
 fc0c:603:5a2b:2b11:a7ec:8187:f4cd:b052 tx3.tx1683.emc
 fc0d:390b:172e:7883:8073:8c23:e159:f09f h.cynical.us
-fc0d:5bba:0969:82b6:8f96:1721:a6d1:4e35 cz.prague.atommixz.hype dc.on.hyperboria.name radio.on.hyperboria.name
+fc0d:5bba:0969:82b6:8f96:1721:a6d1:4e35 fr.paris.scaleway.h-ix.ngu.h dc.on.hyperboria.name radio.on.hyperboria.name
 fc0e:d5e2:738c:c5a8:2cfc:af26:a366:5c1 h.us-west.hub.icfreedom.net
 fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd meshnet.pl/ovh
 fc12:1579:741a:0351:bd82:36ec:0d2f:e6d3 tx1.tx1683.emc
@@ -101,7 +101,7 @@ fc6b:1ea3:18e3:3a4b:d273:39d8:cc1d:76b8 h.kopame.com
 fc6b:d2fd:f96e:35a2:0483:c697:393c:a12b ringo.cjdns.link
 fc6b:eb9a:8480:ebc7:8911:b9fd:414d:78a7 h.llygaid.cwningen.cymru
 fc6c:32ef:bf09:15ff:a66:dffb:f467:70bf h.cicolina.org
-fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 atommixz.hype
+fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 ru.spb.lan-ix.ngu.h
 fc6c:b3f3:eb2b:515e:21ab:f783:5f04:11fb fvz-rec-in-pnq-01 fvz-rec-in-pnq-01.h.dnsrec.meo.ws
 fc6d:2b11:4680:1c9a:5f05:8cea:4332:5e1c fvz-rec-ch-zrh-01 fvz-rec-ch-zrh-01.h.dnsrec.meo.ws
 fc6d:c723:8c35:4f98:f1f8:7a12:ed05:61f3 fvz-rec-au-nsw-01 fvz-rec-au-nsw-01.h.dnsrec.meo.ws
@@ -111,7 +111,6 @@ fc72:d5d:a6a5:6de4:d855:926f:6660:9e9f dev.qgqv.tk
 fc72:e647:378a:35b6:c343:da8f:db16:3f92 h.ancha.lurk.space
 fc73:1aa0:8808:a5da:16af:b025:f356:bfff h.sublab.leipzig.freifunk.net
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
-fc75:a699:c091:62a7:bae3:b1d8:1385:f55c ru.spb.atommixz.hype
 fc75:eba0:2caa:c3e8:1c36:6a81:a94a:ff12 h.eu-east.hub.icfreedom.net
 fc75:ef95:8b7a:ed51:5920:1f28:3797:45bd Spice-Birch.niles.xyz
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
