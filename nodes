@@ -60,11 +60,12 @@ fc46:969d:75a7:b38e:1c2e:954b:3c24:a9a3 h.ca.hub.icfreedom.net
 fc46:d480:61bb:658e:8936:4547:70ea:f628 rainbow.exit.li
 fc47:fa91:dfc5:d6a4:c428:be6b:d16:bdef h.rethymno-meshnet.tk
 fc48:238f:1b3b:e867:4f77:3fe1:8d09:b44e hype.ippolitov.me
-fc49:606:2d90:d40c:780c:277c:f2fc:a66d lucernal.qgqv.tk
 fc49:4bb0:30f4:5ea5:eaa:1484:7d37:68ef  h.xmpp.rows.io
+fc49:606:2d90:d40c:780c:277c:f2fc:a66d lucernal.qgqv.tk
 fc49:8be3:42b7:4f0c:4e68:563f:dac6:e259 lukevers.com
 fc4a:1ace:cb33:aabf:e89b:d32b:a771:183a fvz-rec-nl-ams-01 fvz-rec-nl-ams-01.h.dnsrec.meo.ws
 fc4a:24e9:92ab:bf92:456c:08a6:c501:5b9e lalli.ru.barnaul.dangranos.hype
+fc4a:cb93:88dc:32e1:43ec:e1b8:2b45:dd46 h.phillymesh.net h.peer4.famicoman.phillymesh.net
 fc4a:f39b:b70f:bd67:af06:6670:87e5:e3ff h.zekesonxx.com
 fc4b:2571:aa1a:d4d1:67d6:2d57:c2d2:a329 kpcyrd.hype
 fc4b:cb57:2405:5e2e:e740:bf5:6fe9:10bc fvz-rec-ie-du-01 fvz-rec-ie-du-01.h.dnsrec.meo.ws
@@ -156,7 +157,7 @@ fc9d:2ef7:3fb4:70e1:847c:d810:d5e3:fe21 irc.hypeirc.net
 fc9d:6785:2f0d:bc08:1d2f:c66e:8168:6a30 ran.cjdns.link
 fc9e:203b:f917:9265:5528:1248:289:281f fvz-rec-au-wa-01 fvz-rec-au-wa-01.h.dnsrec.meo.ws
 fc9e:a027:2cd7:c71c:e36e:c39a:2c75:71e7 cjdns.znx.cc
-fc9f:990d:2b0f:75ad:8783:5d59:7c84:520b h.peer0.famicoman.com
+fc9f:990d:2b0f:75ad:8783:5d59:7c84:520b h.peer0.famicoman.phillymesh.net
 fca1:b8fe:4b3c:b53f:13f0:5fb5:a909:2f7 fvz-rec-us-ca-02 fvz-rec-us-ca-02.h.dnsrec.meo.ws
 fca1:fabb:7792:f28d:4623:0139:10af:0549 h.theos.kyriasis.com
 fca3:1fcc:decf:d738:85a8:99c8:a4f2:4a6f dwinn.hype
@@ -225,7 +226,7 @@ fce3:f7bd:dfc4:1da6:a141:132:221d:4bdb  hype.librecmc.com
 fce4:303:c6af:ca2e:451c:4d:ac1b:31bf fvz-rec-lt-vno-01 fvz-rec-lt-vno-01.h.dnsrec.meo.ws
 fce5:b02f:2e14:66b5:f7c8:3228:8a2b:ba55 decay.exit.li
 fcea:6ccc:54f4:71f5:2da:2f6:5c8f:959f fvz-rec-hr-zag-01 fvz-rec-hr-zag-01.h.dnsrec.meo.ws
-fceb:7762:6914:13bc:4642:ecc7:de21:f91d h.peer1.famicoman.com
+fceb:7762:6914:13bc:4642:ecc7:de21:f91d h.peer1.famicoman.phillymesh.net
 fcec:ae97:8902:d810:6c92:ec67:efb2:3ec5 socialno.de urlcloud.net irc.hypeirc.net
 fced:be:335d:a24:fa94:914d:1fed:fd09    mapper.zielmicha.com
 fced:f97f:358b:80d5:7168:7af8:99b5:d5b0 fvz-rec-gr-ath-01 fvz-rec-gr-ath-01.h.dnsrec.meo.ws
