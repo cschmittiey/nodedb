@@ -11,6 +11,7 @@ fc08:fa0c:d028:6e88:c682:78a4:1f8a:e01b anything.exit.li
 fc09:ebc3:7aa6:6c73:db72:1bd:8e6e:c48b fvz-rec-no-osl-01 fvz-rec-no-osl-01.h.dnsrec.meo.ws
 fc0a:484c:ea6d:c325:dcb6:36a0:4f33:427c txpi.tx1683.emc
 fc0c:603:5a2b:2b11:a7ec:8187:f4cd:b052 tx3.tx1683.emc
+fc0c:90e5:4126:5cb5:68d8:4bac:8500:6e6e smokewood.niles.xyz
 fc0d:390b:172e:7883:8073:8c23:e159:f09f h.cynical.us
 fc0d:5bba:0969:82b6:8f96:1721:a6d1:4e35 cz.prague-hx.ngu.h proxy.on.hyperboria.name dc.on.hyperboria.name radio.on.hyperboria.name
 fc0e:d5e2:738c:c5a8:2cfc:af26:a366:5c1 h.us-west.hub.icfreedom.net
@@ -22,6 +23,7 @@ fc15:8f29:51d2:8f8e:c4df:25bd:4ddd:a3c1 h.larynx.ventricle.us
 fc15:e9cd:7cb4:5a04:a483:baa2:40f9:94c2 rin.cjdns.link
 fc16:b44c:2bf9:467:8098:51c6:5849:7b4f h.peer3.famicoman.phillymesh.net
 fc17:8e2d:6a7:5e5c:321c:2a16:fe2b:8c9b fvz-rec-pl-waw-01 fvz-rec-pl-waw-01.h.dnsrec.meo.ws
+fc19:a7cc:c95:a59d:5110:364b:5895:4a1a red-maple.niles.xyz
 fc19:b282:3393:b6e3:d06d:5e21:680f:d93e txr.tx1683.emc
 fc1a:30b2:64ab:f05:8246:4c54:2895:eb10 fvz-rec-hu-bud-01 fvz-rec-hu-bud-01.h.dnsrec.meo.ws
 fc1a:8bc5:4fa2:7dd1:2a6d:5aa8:7639:eb7c pad.meshwith.me
@@ -49,6 +51,7 @@ fc33:7f46:c5e7:713b:6cbd:a8f2:1807:75ea fvz-rec-at-vie-02 fvz-rec-at-vie-02.h.dn
 fc34:8675:ed95:600c:38d7:6eb8:f5b9:5bfa guerrilla.network
 fc35:20c0:2327:d563:fe8e:284d:16e2:7b9b fvz-rec-se-ab-01 fvz-rec-se-ab-01.h.dnsrec.meo.ws
 fc37:d756:3e93:43e8:7967:a923:9779:fd8e h.vovcia.net
+fc39:4991:ebb0:2dab:01f1:51c8:3704:847a aps.niles.xyz
 fc3a:49cf:2dc8:7964:422a:61cd:e9f6:6e59 fvz-rec-tr-ist-01 fvz-rec-tr-ist-01.h.dnsrec.meo.ws
 fc3a:956e:4b69:1c1e:5ebc:11a5:3e71:3e7e uppit.us
 fc3b:f1c1:b985:6dab:0fb9:0742:bb07:a7ba h.bliss.willeponken.me
@@ -88,12 +91,14 @@ fc58:d414:d061:fbb7:a199:a64e:7bd8:c0cc a1.h.magik6k.net
 fc59:36a2:27a9:ccf3:1903:9fc6:5a8f:7499 gitboria.com
 fc59:d9d1:2739:ca8d:b48a:45a5:352a:be35 peer1.fc00.org
 fc5b:22d1:ea43:6efc:bbe0:8eb8:8145:428d h.hub.icfreedom.net
+fc5b:9736:b91a:8c0e:33c0:95e4:2563:2ff4 yellow-poplar.niles.xyz
 fc5e:1bc7:c31c:993b:a784:cb7b:bf97:e2d3 fvz-rec-us-fl-01 fvz-rec-us-fl-01.h.dnsrec.meo.ws
 fc5e:67ca:df62:a01e:b525:82c4:6466:2b12 h.74.leipzig.freifunk.net
 fc5f:4575:e02d:f176:1996:241b:c0d5:5309 westeurope.transatlantic.h-ic.eu
 fc5f:c567:102:c14e:326e:5035:d7e5:9f78  h.meshnet.pl
 fc61:f0ee:55ac:ac18:c90b:46c6:238b:556a h.vpnb.leipzig.freifunk.net
 fc64:2b96:ac3b:239a:713a:82be:9780:a9a7 fvz-rec-ru-led-01 fvz-rec-ru-led-01.h.dnsrec.meo.ws
+fc64:9cb4:5e7e:aa3d:257:49dc:4e9c:9f9a nutmeg-yew.niles.xyz
 fc64:a85b:588f:7436:4f3c:f02a:ea87:d038 h.71.leipzig.freifunk.net
 fc65:9455:939a:d7c0:9979:6df7:5250:dd05 om.h.sfunk1x.com www.h.sfunk1x.com
 fc67:9816:2ccc:c4c2:f76c:1d09:a7a5:44e h.mahmud.berlinmesh.net
@@ -118,7 +123,6 @@ fc72:e647:378a:35b6:c343:da8f:db16:3f92 h.ancha.lurk.space
 fc73:1aa0:8808:a5da:16af:b025:f356:bfff h.sublab.leipzig.freifunk.net
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
 fc75:eba0:2caa:c3e8:1c36:6a81:a94a:ff12 h.eu-east.hub.icfreedom.net
-fc75:ef95:8b7a:ed51:5920:1f28:3797:45bd Spice-Birch.niles.xyz
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
 fc79:4516:3c53:f3de:4875:9e77:fb70:705c h.hitecnologys.org
 fc7b:e952:eab:806:68aa:347b:ad08:ac0b lynx.nat.h-ic.eu
@@ -150,7 +154,7 @@ fc8b:ac45:e4e8:c7fd:909c:8840:842b:ae80 h.mrowr.me
 fc8d:3d5a:dc4f:567e:cb3d:cbd4:de87:28f0 nxt.cloudns.pw
 fc8e:98f0:e24f:566:b3be:7caa:a511:93fe h.artery.ventricle.us
 fc8f:2d5e:41f8:83e:c45f:735:bda:1984    hypegw.hype
-fc91:f039:fbca:8860:3726:5b91:de6e:5578 Nutmeg-Yew.niles.xyz
+fc91:4b06:c8e0:f368:baf2:76db:e797:1166 ethan.niles.xyz
 fc94:9415:3aa1:d1aa:e456:456c:76b0:bc7 fvz-rec-de-fra-01 fvz-rec-de-fra-01.h.dnsrec.meo.ws
 fc97:fe2d:d8b2:a034:c794:89fd:48c7:dab5 h.crypto-keupone.eu
 fc99:2f4:7795:c86c:36bd:63ae:cf49:d459  seanode.meshwith.me
@@ -164,6 +168,7 @@ fc9e:244f:cd62:8fda:5fa0:5720:2337:1626 h.ic.hellomouse.cf
 fc9e:a027:2cd7:c71c:e36e:c39a:2c75:71e7 cjdns.znx.cc
 fc9f:990d:2b0f:75ad:8783:5d59:7c84:520b h.peer0.famicoman.phillymesh.net
 fca1:b8fe:4b3c:b53f:13f0:5fb5:a909:2f7 fvz-rec-us-ca-02 fvz-rec-us-ca-02.h.dnsrec.meo.ws
+fca1:f3d7:9953:5d1a:0f53:c5e7:5cdb:9748 spice-birch.niles.xyz
 fca1:fabb:7792:f28d:4623:0139:10af:0549 h.theos.kyriasis.com
 fca3:1fcc:decf:d738:85a8:99c8:a4f2:4a6f dwinn.hype
 fca3:e846:d35a:b8ec:16ea:8dc5:2378:23f fvz-rec-au-vic-01 fvz-rec-au-vic-01.h.dnsrec.meo.ws
@@ -224,7 +229,6 @@ fcde:4208:dead:face:9f23:a48a:0239:4d47 akarin.cjdns.link
 fcde:a8ab:1ba5:a45a:6d48:1fbb:5131:f2db h.nana.s.imvry.pw
 fcdf:30c6:06ac:8186:edd1:e016:cd47:8100 h.iovoid.xyz
 fcdf:a296:afe3:7118:4135:cc0b:ff92:4585 h.gateway.ipfs.io/3
-fce0:11fc:72f3:f4bf:c75:185c:dbd0:7352 Red-Maple.niles.xyz
 fce0:5adc:17ee:f997:c110:adaa:26d9:0f36 nagi.cjdns.link
 fce3:14aa:64d0:f72a:cb3f:6c04:3943:ffb6 ch1.neboard.me
 fce3:5017:cce0:78dc:a957:4b58:7ed0:ea2d hype.pond.galactica.pw
