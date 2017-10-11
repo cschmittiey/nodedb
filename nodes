@@ -14,6 +14,7 @@ fc0c:603:5a2b:2b11:a7ec:8187:f4cd:b052 tx3.tx1683.emc
 fc0c:90e5:4126:5cb5:68d8:4bac:8500:6e6e smokewood.niles.xyz
 fc0d:390b:172e:7883:8073:8c23:e159:f09f h.cynical.us
 fc0d:5bba:0969:82b6:8f96:1721:a6d1:4e35 cz.prague-hx.ngu.h proxy.on.hyperboria.name dc.on.hyperboria.name radio.on.hyperboria.name
+fc0e:2362:6ac2:c467:dfae:5688:5804:3d4f h.coes.cwningen.cymru
 fc0e:d5e2:738c:c5a8:2cfc:af26:a366:5c1 h.us-west.hub.icfreedom.net
 fc11:2640:c1d3:2a2f:8a4f:2a41:e54d:53dd meshnet.pl/ovh
 fc12:1579:741a:0351:bd82:36ec:0d2f:e6d3 tx1.tx1683.emc
@@ -76,12 +77,11 @@ fc4a:24e9:92ab:bf92:456c:08a6:c501:5b9e lalli.ru.barnaul.dangranos.hype
 fc4a:cb93:88dc:32e1:43ec:e1b8:2b45:dd46 h.peer4.famicoman.phillymesh.net h.phillymesh.net
 fc4a:f39b:b70f:bd67:af06:6670:87e5:e3ff h.zekesonxx.com
 fc4b:2571:aa1a:d4d1:67d6:2d57:c2d2:a329 kpcyrd.hype
-fc4d:c8e5:9efe:9ac2:8e72:fcf7:6ce8:39dc peer1.h.e-mesh.net
 fc4b:cb57:2405:5e2e:e740:bf5:6fe9:10bc fvz-rec-ie-du-01 fvz-rec-ie-du-01.h.dnsrec.meo.ws
+fc4d:c8e5:9efe:9ac2:8e72:fcf7:6ce8:39dc peer1.h.e-mesh.net
 fc4f:fb95:b233:cf7d:1d8e:899a:158c:839a fvz-rec-au-sa-01 fvz-rec-au-sa-01.h.dnsrec.meo.ws
 fc51:57de:bdef:e439:ada3:55b6:4347:36f1 cjdns.mtbentley.us
 fc51:a2ce:1ec4:ff09:3fec:c03c:473c:e9ad fvz-rec-es-mad-01 fvz-rec-es-mad-01.h.dnsrec.meo.ws
-fc51:b463:af07:abff:67e2:22ee:f8df:1aa h.pen.cwningen.cymru
 fc52:a1da:9349:5768:b765:bb26:eb53:38e1 fvz-rec-de-sn-01 fvz-rec-de-sn-01.h.dnsrec.meo.ws
 fc53:dcc5:e89d:9082:4097:6622:5e82:c654 h.fc00.org ovh.zielmicha.com
 fc56:8313:1e14:1a50:0c01:0850:a53e:7127 cel.hype
@@ -112,7 +112,6 @@ fc68:f326:fd82:e1e3:fe70:8894:11c6:7685 z9.hamburg.ccc.de
 fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3 transitiontech.ca/public
 fc6b:1ea3:18e3:3a4b:d273:39d8:cc1d:76b8 h.kopame.com
 fc6b:d2fd:f96e:35a2:0483:c697:393c:a12b ringo.cjdns.link
-fc6b:eb9a:8480:ebc7:8911:b9fd:414d:78a7 h.llygaid.cwningen.cymru
 fc6c:32ef:bf09:15ff:a66:dffb:f467:70bf h.cicolina.org
 fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 ru.spb-hx.ngu.h
 fc6c:b3f3:eb2b:515e:21ab:f783:5f04:11fb fvz-rec-in-pnq-01 fvz-rec-in-pnq-01.h.dnsrec.meo.ws
@@ -143,7 +142,6 @@ fc82:7654:9d6a:e23f:fca6:59f5:79e8:50f0 eastusa.transatlantic.h-ic.eu
 fc82:a1ac:75ca:4dfc:81dc:a9fc:7656:f762 h.vpnd.leipzig.freifunk.net
 fc85:6a8f:4f57:833a:fe3f:748e:ef85:d62  lance.networkdigital.net
 fc86:8e53:3fc0:8b78:6037:2fcc:fd54:471 fvz-rec-sa-ruh-01 fvz-rec-sa-ruh-01.h.dnsrec.meo.ws
-fc86:efa0:f090:ce57:5c9f:d5c3:c02f:2a15 h.wisgers.cwningen.cymru
 fc87:35b8:6b07:7acd:dd07:ade2:4401:ed7d h.lucy.s.imvry.pw
 fc87:62ba:d6c:fdf4:bc5f:ad94:f38b:4cb4 fvz-rec-lu-ros-01 fvz-rec-lu-ros-01.h.dnsrec.meo.ws
 fc87:f729:c42b:8a74:9e05:916f:7b80:6df4 UnexpectedConsequence.astriaporta.space h.astriaporta.space
@@ -195,7 +193,7 @@ fcbb:28cb:740:9d47:2f06:6650:f232:d561 fvz-rec-im-dgs-01 fvz-rec-im-dgs-01.h.dns
 fcbb:98bd:d44f:40dc:426c:4971:b6b1:7bd6 ams.smash-net.org
 fcbb:ecc7:c97b:78f:dd78:7a0c:3c0c:46be fvz-rec-us-tx-01 fvz-rec-us-tx-01.h.dnsrec.meo.ws
 fcbd:5668:fe09:043a:d838:0181:6b51:ba5e yeti.exit.li
-fcbe:7c6c:bffb:5b8d:eaab:af61:8e64:4ab h.penfar.cwningen.cymru
+fcbe:a4ba:6a2d:6768:4a8f:cbbb:6dae:3aa3 h.penfar.cwningen.cymru
 fcbf:7bbc:32e4:716:bd00:e936:c927:fc14  appno.de irc.appno.de irc.hypeirc.net
 fcc1:1c05:ced1:a1c7:5820:fa7e:95cd:9f69 fvz-rec-fr-sbg-01 fvz-rec-fr-sbg-01.h.dnsrec.meo.ws
 fcc3:2d0f:673b:1529:d8eb:ef61:5be2:5592 fvz-rec-pt-lis-01 fvz-rec-pt-lis-01.h.dnsrec.meo.ws
@@ -206,6 +204,7 @@ fcc4:eee6:ae2a:ddb3:b5e5:6727:7ee1:baa2 anthro.hype
 fcc6:700e:1577:b2df:20cc:3ece:24ff:3fa7 h.seattlemesh.net h.pad.meshwith.me
 fcc7:1f86:f366:dacd:d5ea:cfc4:8921:1bbc fvz-rec-us-ga-01 fvz-rec-us-ga-01.h.dnsrec.meo.ws
 fcc8:1772:e027:a41f:3171:a27f:bf3b:f288 fvz-rec-de-fra-02 fvz-rec-de-fra-02.h.dnsrec.meo.ws
+fcc8:a424:e3b1:0f41:d4cf:6c75:97de:9b40 h.traed.cwningen.cymru
 fccb:a83:7716:b926:a226:46cc:92df:b6ef fvz-rec-ca-on-01 fvz-rec-ca-on-01.h.dnsrec.meo.ws
 fccb:c308:4b13:fc55:cd:1dba:963e:d3b5   h.nl-hx.com
 fccb:cd80:c03:62bf:8cb:2cb:3e05:1f08 fvz-rec-at-vie-01 fvz-rec-at-vie-01.h.dnsrec.meo.ws
