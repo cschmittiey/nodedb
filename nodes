@@ -50,6 +50,7 @@ fc2e:d353:6025:45f5:91d0:a312:815f:56c2 fvz-rec-hk-ztw-01 fvz-rec-hk-ztw-01.h.dn
 fc2f:22bf:e287:88ca:a896:896e:7e62:b411 fire.meshnet.pl
 fc2f:6bb5:9236:99e7:c9bf:f28f:d14e:450b h.crab.im rss.dryware.org
 fc2f:708e:4d73:adbd:c221:facc:12a:487 hydrogen.cjdns-atoms.tk
+fc2f:87e4:8a02:676b:8170:621a:010d:e9fd h.whiskey.luke.network
 fc32:1983:9420:84aa:277a:33da:d562:e51f h.peer2.famicoman.phillymesh.net
 fc33:7f46:c5e7:713b:6cbd:a8f2:1807:75ea fvz-rec-at-vie-02 fvz-rec-at-vie-02.h.dnsrec.meo.ws
 fc34:8675:ed95:600c:38d7:6eb8:f5b9:5bfa guerrilla.network
@@ -93,6 +94,7 @@ fc56:ed02:4f42:362f:baa1:62a1:fb28:6a25 start-com.ru
 fc57:9b3e:de4f:dde1:2944:5d67:cdda:88b h.sadalsuud.lurk.space
 fc58:d414:d061:fbb7:a199:a64e:7bd8:c0cc a1.h.magik6k.net
 fc59:36a2:27a9:ccf3:1903:9fc6:5a8f:7499 gitboria.com
+fc59:44e7:a5e4:5747:8dfe:df4b:b528:1874 h.tango.luke.network
 fc59:d9d1:2739:ca8d:b48a:45a5:352a:be35 peer1.fc00.org
 fc5b:22d1:ea43:6efc:bbe0:8eb8:8145:428d h.hub.icfreedom.net
 fc5b:9736:b91a:8c0e:33c0:95e4:2563:2ff4 yellow-poplar.niles.xyz
@@ -113,6 +115,7 @@ fc68:d76c:ee8b:88c4:a994:286c:2126:fb35 fvz-rec-za-wc-01 fvz-rec-za-wc-01.h.dnsr
 fc68:f326:fd82:e1e3:fe70:8894:11c6:7685 z9.hamburg.ccc.de
 fc6a:30c9:53a1:2c6b:ccbf:1261:2aef:45d3 transitiontech.ca/public
 fc6b:1ea3:18e3:3a4b:d273:39d8:cc1d:76b8 h.kopame.com
+fc6b:8b22:874a:e7c8:9cdd:fe61:1a8a:f585 h.delta.luke.network
 fc6b:d2fd:f96e:35a2:0483:c697:393c:a12b ringo.cjdns.link
 fc6c:32ef:bf09:15ff:a66:dffb:f467:70bf h.cicolina.org
 fc6c:71cd:5686:a02f:d27c:d84e:e941:3252 ru.spb-hx.ngu.h
@@ -165,6 +168,7 @@ fc97:fe2d:d8b2:a034:c794:89fd:48c7:dab5 h.crypto-keupone.eu
 fc99:2f4:7795:c86c:36bd:63ae:cf49:d459  seanode.meshwith.me
 fc99:fb16:ae93:c9cd:6b20:280a:c643:849b network.luggs.co
 fc9a:b5b2:8e97:b2a2:0695:b1e1:7acf:ef34 sayaka.cjdns.link
+fc9b:3a57:261c:6d22:f839:d536:1a4d:5f28 h.hotel.luke.network
 fc9b:6269:cbae:3e26:31e1:8f68:8cea:337b h.cortex.ventricle.us
 fc9d:2ef7:3fb4:70e1:847c:d810:d5e3:fe21 irc.hypeirc.net
 fc9d:6785:2f0d:bc08:1d2f:c66e:8168:6a30 ran.cjdns.link
@@ -200,6 +204,7 @@ fcbd:5668:fe09:043a:d838:0181:6b51:ba5e yeti.exit.li
 fcbe:a4ba:6a2d:6768:4a8f:cbbb:6dae:3aa3 h.penfar.cwningen.cymru
 fcbf:7bbc:32e4:716:bd00:e936:c927:fc14  appno.de irc.appno.de irc.hypeirc.net
 fcc1:1c05:ced1:a1c7:5820:fa7e:95cd:9f69 fvz-rec-fr-sbg-01 fvz-rec-fr-sbg-01.h.dnsrec.meo.ws
+fcc2:d199:ff95:3b0c:5cbc:0106:b7a2:7cc6 h.bravo.edge.luke.network
 fcc3:2d0f:673b:1529:d8eb:ef61:5be2:5592 fvz-rec-pt-lis-01 fvz-rec-pt-lis-01.h.dnsrec.meo.ws
 fcc3:600d:ee24:b8ba:6cfb:c731:e293:4563 h.hk.hub.icfreedom.net
 fcc4:554a:6862:2c6b:4671:64fb:75f2:1d99 paseoparkturtlerock.irvine.glitchedpixels.com
@@ -237,6 +242,7 @@ fcde:a8ab:1ba5:a45a:6d48:1fbb:5131:f2db h.nana.s.imvry.pw
 fcdf:30c6:06ac:8186:edd1:e016:cd47:8100 h.iovoid.xyz
 fcdf:a296:afe3:7118:4135:cc0b:ff92:4585 h.gateway.ipfs.io/3
 fce0:5adc:17ee:f997:c110:adaa:26d9:0f36 nagi.cjdns.link
+fce0:ab1c:0313:4008:7f0f:08eb:f737:ecef h.alpha.luke.network
 fce3:14aa:64d0:f72a:cb3f:6c04:3943:ffb6 ch1.neboard.me
 fce3:5017:cce0:78dc:a957:4b58:7ed0:ea2d hype.pond.galactica.pw
 fce3:f7bd:dfc4:1da6:a141:132:221d:4bdb  hype.librecmc.com
