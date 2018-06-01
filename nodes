@@ -1,4 +1,3 @@
-
 fc00:0:d7f:200e:e96:71f8:3ab:aead c2.h.magik6k.net
 fc00:10c1:9cec:1f1d:9513:c25b:a674:177a s1.c1.h.magik6k.net
 fc02:2735:e595:bb70:8ffc:5293:8af8:c4b7 h.magik6k.net
@@ -150,6 +149,7 @@ fc7e:f26f:4e28:f5c3:5d79:149d:51f5:7c2d fvz-rec-ro-bu-01 fvz-rec-ro-bu-01.h.dnsr
 fc7f:3d04:419f:e9b0:526f:fc6a:576:cba0 h.amadeu.berlinmesh.net
 fc80:2426:bdb4:4000:4161:30d4:5d14:2e71 fvz-rec-nl-fl-01 fvz-rec-nl-fl-01.h.dnsrec.meo.ws
 fc80:48cd:c97e:ec5f:b148:52bb:5d53:7d3e thonk1.rx14.co.uk
+fc8a:086e:215f:1840:cb07:1f32:a0cc:9986 h.zhuk.cupivan.ru
 fc82:7654:9d6a:e23f:fca6:59f5:79e8:50f0 eastusa.transatlantic.h-ic.eu
 fc82:a1ac:75ca:4dfc:81dc:a9fc:7656:f762 h.vpnd.leipzig.freifunk.net
 fc85:6a8f:4f57:833a:fe3f:748e:ef85:d62  lance.networkdigital.net
@@ -161,6 +161,7 @@ fc88:22b7:2274:bd9a:8ae8:9d73:e797:eb60 chen.cjdns.link
 fc88:c649:1d80:e13f:4206:4b3e:e1e3:bc37 h.vs1.kubuxu.ovh
 fc89:d20e:99db:7374:9efc:a0b7:3c19:d3db siberian-cat.hype
 fc8a:14e1:c4ab:23c6:9383:47fe:d68a:6931 fvz-rec-gb-eng-01 fvz-rec-gb-eng-01.h.dnsrec.meo.ws
+fc8a:3456:7788:9665:fcfe:4681:cb09:8b77 h.nn.cupivan.ru
 fc8a:79d5:4cc0:377c:9ae6:df2b:564f:09cc dangranos.hype sigrun.ru.barnaul.dangranos.hype
 fc8b:a7b:b0c0:28f8:7488:5774:f622:9b72  shawnserver.hype
 fc8b:ac45:e4e8:c7fd:909c:8840:842b:ae80 h.mrowr.me
@@ -174,7 +175,7 @@ fc99:2f4:7795:c86c:36bd:63ae:cf49:d459  seanode.meshwith.me
 fc99:fb16:ae93:c9cd:6b20:280a:c643:849b network.luggs.co
 fc9a:b5b2:8e97:b2a2:0695:b1e1:7acf:ef34 sayaka.cjdns.link
 fc9b:3a57:261c:6d22:f839:d536:1a4d:5f28 h.hotel.luke.network
-fc9b:499a:dd7a:092a:7b3e:be3a:32fc:53dc h.frank.cupivan.ru
+fc9b:499a:dd7a:092a:7b3e:be3a:32fc:53dc h.ihc.cupivan.ru
 fc9b:6269:cbae:3e26:31e1:8f68:8cea:337b h.cortex.ventricle.us
 fc9d:2ef7:3fb4:70e1:847c:d810:d5e3:fe21 irc.hypeirc.net
 fc9d:6785:2f0d:bc08:1d2f:c66e:8168:6a30 ran.cjdns.link
