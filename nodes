@@ -61,6 +61,7 @@ fc33:7f46:c5e7:713b:6cbd:a8f2:1807:75ea fvz-rec-at-vie-02 fvz-rec-at-vie-02.h.dn
 fc34:8675:ed95:600c:38d7:6eb8:f5b9:5bfa guerrilla.network
 fc35:20c0:2327:d563:fe8e:284d:16e2:7b9b fvz-rec-se-ab-01 fvz-rec-se-ab-01.h.dnsrec.meo.ws
 fc36:90f5:536c:9444:6909:3d85:a347:246a soaryn.rx14.co.uk
+fc37:818b:229c:3149:49ed:adce:174f:a922 cjdns.nanticokegs.net
 fc37:d756:3e93:43e8:7967:a923:9779:fd8e h.vovcia.net
 fc39:4991:ebb0:2dab:01f1:51c8:3704:847a aps.niles.xyz
 fc3a:49cf:2dc8:7964:422a:61cd:e9f6:6e59 fvz-rec-tr-ist-01 fvz-rec-tr-ist-01.h.dnsrec.meo.ws
@@ -148,6 +149,7 @@ fc73:796e:b46d:1594:2229:1f24:207a:dde6 h.ic.hellomouse.net
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
 fc75:eba0:2caa:c3e8:1c36:6a81:a94a:ff12 h.eu-east.hub.icfreedom.net
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
+fc77:b2cd:9c85:93a2:ac1d:b754:5131:63ac h-luna.nosafe.space
 fc79:4516:3c53:f3de:4875:9e77:fb70:705c h.hitecnologys.org
 fc7b:e952:eab:806:68aa:347b:ad08:ac0b lynx.nat.h-ic.eu
 fc7c:402f:8302:967b:1a07:d0e0:cb4f:29a9 h.icfreedom.net
@@ -298,6 +300,7 @@ fcf4:6e6b:4304:19b8:4672:9f40:90c3:af2b hypesearch.magik6k.net
 fcf4:e309:14b5:5498:cafd:4f59:4b9c:7f84 h.vps.cjdns.ca irc.hypeirc.net
 fcf5:894b:a246:fa31:f395:6e8d:31b6:f9f9 h.nup.pw
 fcf6:b259:3437:7641:cd74:7604:ffb7:d978 h.yakamo.org
+fcf9:5e18:ad94:e8d8:e372:756f:b987:733c h.saloid.ua
 fcfa:be9c:c50d:391e:299b:ed37:4207:d72f fvz-rec-it-mi-01 fvz-rec-it-mi-01.h.dnsrec.meo.ws
 fcfc:44a2:66d4:6fe8:1e8b:41ec:8655:8f24 de1.servers.devices.h.cwinfo.net
 fcfc:5d70:99b6:4e0c:cba6:61ec:434b:df1a h.julian.meshwith.me
@@ -306,5 +309,3 @@ fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
 fcfe:23f7:1064:b45a:8515:70f0:5651:b606 lon.cjdns.drsn0w.net
 fcfe:eab4:e49c:940f:8b29:35a4:8ea8:b01a h.gateway.ipfs.io/4
 fcff:9613:6f0c:43f9:a8a9:5c8c:1f09:7729 fvz-rec-is-hf-01 fvz-rec-is-hf-01.h.dnsrec.meo.ws
-fcf9:5e18:ad94:e8d8:e372:756f:b987:733c h.saloid.ua
-fc37:818b:229c:3149:49ed:adce:174f:a922 cjdns.nanticokegs.net
