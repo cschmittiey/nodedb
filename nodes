@@ -1,6 +1,7 @@
 fc00:0:d7f:200e:e96:71f8:3ab:aead c2.h.magik6k.net
 fc00:10c1:9cec:1f1d:9513:c25b:a674:177a s1.c1.h.magik6k.net
 fc00:cda4:4988:cd80:d946:d331:9e0f:95e3 h.cjdns-01.finlaydag33k.nl
+fc00:e6f8:d52d:e606:0c35:61fc:866d:34c4 ca1.servers.devices.h.cwinfo.net
 fc02:2735:e595:bb70:8ffc:5293:8af8:c4b7 h.magik6k.net
 fc03:2773:2815:2016:be23:98a7:a601:a062 cjdns.vrs.hostv.pl
 fc03:960a:3bb8:b52a:429f:69fb:401f:c6d7 h.capricorn.stuxnet.xyz
@@ -74,6 +75,7 @@ fc3f:f340:3ae4:b550:1b25:31b6:a8a4:cfc1 cjdns.mcterra.cf
 fc41:735f:c68e:4d6e:c7fe:907b:975d:d6e openwrt.nat.h-ic.eu
 fc41:b:79ba:fd42:419a:368:c0e8:1d7f blackbox.h.sfunk1x.com
 fc42:ba29:491e:9ef5:2ce1:6fd0:7f9f:9c09 us.ga.atlanta.gme.hype
+fc43:05b3:6a1f:863a:0874:13bd:235e:25ff kjab-2a5y-8hr3-ih4p.devices.h.waren.io
 fc43:d88c:39a1:8746:538:b247:4695:cdb6 fvz-rec-vn-sgn-01 fvz-rec-vn-sgn-01.h.dnsrec.meo.ws
 fc46:969d:75a7:b38e:1c2e:954b:3c24:a9a3 h.ca.hub.icfreedom.net
 fc46:d480:61bb:658e:8936:4547:70ea:f628 rainbow.exit.li
@@ -110,7 +112,6 @@ fc59:d9d1:2739:ca8d:b48a:45a5:352a:be35 peer1.fc00.org
 fc5a:62a6:094c:2fbc:c591:b471:f175:afef echelon.devices.h.christerwaren.fi
 fc5a:c8f7:2098:55b8:5309:12c4:cbc6:7b5b h.relpda.mikaela.info
 fc5b:22d1:ea43:6efc:bbe0:8eb8:8145:428d h.hub.icfreedom.net
-fc5b:7a1f:99c8:7c61:c626:6719:7e36:a9bb papyrus.fr1.servers.devices.h.cwinfo.net
 fc5b:9736:b91a:8c0e:33c0:95e4:2563:2ff4 yellow-poplar.niles.xyz
 fc5e:1bc7:c31c:993b:a784:cb7b:bf97:e2d3 fvz-rec-us-fl-01 fvz-rec-us-fl-01.h.dnsrec.meo.ws
 fc5e:67ca:df62:a01e:b525:82c4:6466:2b12 h.74.leipzig.freifunk.net
@@ -147,6 +148,7 @@ fc72:e647:378a:35b6:c343:da8f:db16:3f92 h.ancha.lurk.space
 fc73:1aa0:8808:a5da:16af:b025:f356:bfff h.sublab.leipzig.freifunk.net
 fc73:796e:b46d:1594:2229:1f24:207a:dde6 h.ic.hellomouse.net
 fc73:7d5:bf14:85b9:e009:ef6:9be8:e2bc fvz-rec-us-wa-01 fvz-rec-us-wa-01.h.dnsrec.meo.ws
+fc74:4cc0:fb9c:a60b:2978:3a1b:ffec:b578 aurora.devices.h.waren.io
 fc75:eba0:2caa:c3e8:1c36:6a81:a94a:ff12 h.eu-east.hub.icfreedom.net
 fc76:e705:65f6:f43:3793:7dd4:63a1:7b23 cortana.geek
 fc77:b2cd:9c85:93a2:ac1d:b754:5131:63ac h-luna.nosafe.space
@@ -155,6 +157,7 @@ fc7b:e952:eab:806:68aa:347b:ad08:ac0b lynx.nat.h-ic.eu
 fc7c:402f:8302:967b:1a07:d0e0:cb4f:29a9 h.icfreedom.net
 fc7d:1a8e:b4a4:15c1:6fb8:2d41:abe1:ca17 fvz-rec-fi-ulv-01 fvz-rec-fi-ulv-01.h.dnsrec.meo.ws
 fc7d:5e80:f8bb:c92f:138a:cbf:b181:7750 mirror.explodie.org
+fc7d:6a27:5250:ff11:148f:d8b3:ba60:9d72 mirrigames.devices.h.waren.io
 fc7d:ab19:d6f3:c721:afff:49bc:8749:3890 ru.msk-hx.hype
 fc7e:4c65:618a:e5e6:13d6:ee10:6882:760f suigintou.asifade.in
 fc7e:4dc0:4451:95b0:940c:85a1:dae3:9a18 h.medulla.ventricle.us
@@ -195,6 +198,7 @@ fc9a:b5b2:8e97:b2a2:0695:b1e1:7acf:ef34 sayaka.cjdns.link
 fc9b:3a57:261c:6d22:f839:d536:1a4d:5f28 h.hotel.luke.network
 fc9b:499a:dd7a:092a:7b3e:be3a:32fc:53dc h.ihc.cupivan.ru
 fc9b:6269:cbae:3e26:31e1:8f68:8cea:337b h.cortex.ventricle.us
+fc9b:bc42:1abc:cd5a:7579:cd6a:62be:13ff uk1.servers.devices.h.cwinfo.net
 fc9c:498a:27d3:8daf:b6c8:0522:4444:7b08 cloudberry.fr1.servers.devices.h.cwinfo.net
 fc9d:2ef7:3fb4:70e1:847c:d810:d5e3:fe21 irc.hypeirc.net
 fc9d:6785:2f0d:bc08:1d2f:c66e:8168:6a30 ran.cjdns.link
@@ -214,7 +218,6 @@ fca6:8b1:5bdc:6e85:56fc:dfc9:844a:6251 fvz-rec-be-okp-01 fvz-rec-be-okp-01.h.dns
 fca6:d7bd:f58d:5324:b012:89c0:6b61:cdee fvz-rec-us-ca-01 fvz-rec-us-ca-01.h.dnsrec.meo.ws
 fca8:2dd7:4987:a9be:c8fc:34d7:5a1:4606  irc.hypeirc.net
 fcaa:5785:a537:90db:6513:bba9:87a0:12a7 h.groundupworks.com
-fcaa:d6be:eca:8cbd:1f21:68e7:24c7:a33f fr3.servers.devices.h.cwinfo.net
 fcae:ff0b:62e0:7cef:9dae:269:8e93:7654 nott.smash-net.org
 fcaf:3ad2:1fd4:a035:7ea:15c7:bf1f:6257 h.taurus.stuxnet.xyz
 fcb2:208c:48ce:6f65:2c6f:76e9:a39:411c qgqv.tk
@@ -256,6 +259,7 @@ fcce:3057:2d8e:395e:83c4:4ac9:26ae:7758 fvz-rec-is-haf-01 fvz-rec-is-haf-01.h.dn
 fcce:e0a7:a88c:e9c7:3c27:8a87:6572:c07c onyx.devices.h.christerwaren.fi
 fcd0:af79:7931:d87e:c888:895d:9fff:f76f oblivion.fr1.servers.devices.h.cwinfo.net
 fcd1:f75f:c0aa:8340:2c4b:acc1:57b4:ecc6 h.204.leipzig.freifunk.net
+fcd3:80fe:cc32:ec5d:bd56:8531:3d73:ca2f magiclantern.devices.h.christerwaren.fi
 fcd3:d327:97e5:98bd:90bc:a7bb:c72a:3382 fvz-rec-il-tlv-01 fvz-rec-il-tlv-01.h.dnsrec.meo.ws
 fcd5:7d07:2146:f18f:f937:d46e:77c9:80e7 mesh.roaming-initiative.com
 fcd6:9c33:dd06:3320:8dbe:ab19:c87:f6e3 hydrogen.hype.progval.net
@@ -273,6 +277,7 @@ fcdc:e168:e089:f053:b02c:738e:817d:2308 h.lithium.socialcoders.org
 fcde:4208:dead:face:9f23:a48a:0239:4d47 akarin.cjdns.link
 fcde:a8ab:1ba5:a45a:6d48:1fbb:5131:f2db h.nana.s.imvry.pw
 fcdf:30c6:06ac:8186:edd1:e016:cd47:8100 h.iovoid.xyz
+fcdf:4471:b988:3a7c:f4ac:0840:8155:110f g2vb-h3ut-r9pw-ixj3.devices.h.waren.io
 fcdf:a296:afe3:7118:4135:cc0b:ff92:4585 h.gateway.ipfs.io/3
 fce0:5adc:17ee:f997:c110:adaa:26d9:0f36 nagi.cjdns.link
 fce0:ab1c:0313:4008:7f0f:08eb:f737:ecef h.alpha.luke.network
@@ -300,7 +305,6 @@ fcf5:894b:a246:fa31:f395:6e8d:31b6:f9f9 h.nup.pw
 fcf6:b259:3437:7641:cd74:7604:ffb7:d978 h.yakamo.org
 fcf9:5e18:ad94:e8d8:e372:756f:b987:733c h.saloid.ua
 fcfa:be9c:c50d:391e:299b:ed37:4207:d72f fvz-rec-it-mi-01 fvz-rec-it-mi-01.h.dnsrec.meo.ws
-fcfc:44a2:66d4:6fe8:1e8b:41ec:8655:8f24 de1.servers.devices.h.cwinfo.net
 fcfc:5d70:99b6:4e0c:cba6:61ec:434b:df1a h.julian.meshwith.me
 fcfc:b6aa:665:755e:4772:2a54:9277:3ab5 h.fa3.us
 fcfd:9511:69cc:a05e:4eb2:ed20:c6a0:52e3 hyperboria.name
